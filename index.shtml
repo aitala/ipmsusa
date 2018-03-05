@@ -1,0 +1,456 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | By Modelers... For Modelers</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+<link rel="stylesheet" href="/flexslider/flexslider.css" type="text/css">
+<script src="/flexslider/jquery.flexslider-min.js"></script>
+
+<!-- Place in the <head>, after the three links -->
+<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+	$('.flexslider').flexslider({
+		
+		startAt: 0,
+		randomize: false,
+		touch: true,
+		start: function(slider) { // Fires when the slider loads the first slide
+			var slide_count = slider.count - 1;
+
+			$(slider)
+				.find('img.lazy:eq(0)')
+				.each(function() {
+					var src = $(this).attr('data-src');
+					$(this).attr('src', src).removeAttr('data-src');
+				});
+			},
+		
+		before: function(slider) { // Fires asynchronously with each slider animation
+			var slides     = slider.slides,
+				index      = slider.animatingTo,
+				$slide     = $(slides[index]),
+				$img       = $slide.find('img[data-src]'),
+				current    = index,
+				nxt_slide  = current + 1,
+				prev_slide = current - 1;
+
+			$slide
+				.parent()
+				.find('img.lazy:eq(' + current + '), img.lazy:eq(' + prev_slide + '), img.lazy:eq(' + nxt_slide + ')')
+				.each(function() {
+				var src = $(this).attr('data-src');
+				$(this).attr('src', src).removeAttr('data-src');
+			});
+		}
+	});
+	
+  });
+</script>
+<script type="text/javascript" charset="utf-8">
+/* Thanks to CSS Tricks for pointing out this bit of jQuery
+http://css-tricks.com/equal-height-blocks-in-rows/
+It's been modified into a function called at page load and then each time the page is resized. One large modification was to remove the set height before each new calculation. */
+
+equalheight = function(container){
+
+var currentTallest = 0,
+     currentRowStart = 0,
+     rowDivs = new Array(),
+     $el,
+     topPosition = 0;
+ $(container).each(function() {
+
+   $el = $(this);
+   $($el).height('auto')
+   topPostion = $el.position().top;
+
+   if (currentRowStart != topPostion) {
+     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+       rowDivs[currentDiv].height(currentTallest);
+     }
+     rowDivs.length = 0; // empty the array
+     currentRowStart = topPostion;
+     currentTallest = $el.height();
+     rowDivs.push($el);
+   } else {
+     rowDivs.push($el);
+     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+  }
+   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+     rowDivs[currentDiv].height(currentTallest);
+   }
+ });
+}
+
+$(window).load(function() {
+  equalheight('.row article');
+});
+
+
+$(window).resize(function(){
+  equalheight('.row article');
+});
+
+</script>
+<script src="/js/moment-with-locales.min.js"></script>
+<script type="text/javascript" src="/js/feedek/js/FeedEk.js"></script>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+  <div class="row">
+    <div class="col-md-12"> 
+      
+      <!-- Place somewhere in the <body> of your page -->
+      <div class="flexslider">
+        <ul class="slides">
+          <li> <img src="/images/slider/IMG_0356-3.png" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+            </div>
+          </li>
+          <li> <img src="/images/slider/IMG_3035_crop.jpg"  class="lazy" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+              <p>2015 Best of Class, Best Ship - USS Intrepid CVA-11, by Ryan Labieniec</p>
+            </div>
+          </li>
+          <li> <img src="/images/slider/IMG_4941_crop.jpg"  class="lazy" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+            </div>
+          </li>
+          <li> <img src="/images/slider/IMG_2920_crop.jpg"  class="lazy" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+              <p>2015 Best of Class, Art Gerber Best Military Vehicle - M1126 Stryker, by Nathan LaPorte</p>
+            </div>
+          </li>
+          <li> <img src="/images/slider/IMG_4852_crop.jpg"  class="lazy" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+              <p>2015 Best of Class, Best Automotive - Porsche 917/30, by Steve Bright</p>
+            </div>
+          </li>
+          <li> <img src="/images/slider/IMG_4931_crop.jpg"  class="lazy" />
+            <div  class="flex-caption visible-lg visible-md">
+              <h2>By Modelers... For Modelers</h2>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="row">
+          <article class="col-md-6">
+         
+          <h2>Announcements</h2>
+          
+          <h3>2018 IPMS/USA National Convention</h3>
+            <div class="row">
+                <div class="col-sm-4">
+                    <a href="http://www.ipmsusanationals2018.org" target="_blank" title="2018 IPMS/USA National Convention" rel="nofollow"><img src="images/c28630c82dfa27069e8025091d947937.jpeg" alt="2018 IPMS/USA National Convention Logo" class="center-block img-responsive img-thumbnail"></a>
+                </div>
+                 <div class="col-sm-8">
+                     <p><a href="http://www.shopipmsusa.org/category-s/106.htm" target="_blank">Online registration for the National Convention is now available</a>!</p>
+                     <p>The website for the 2018 IPMS/USA National Convention is <a href="http://www.ipmsusanationals2018.org" target="_blank" title="2018 IPMS/USA National Convention" rel="nofollow">now online.</a></p>
+                 </div>
+            </div>
+          <hr/>
+
+ <h2>News</h2> 
+<script type="text/javascript">
+	$(function () {
+		$('#divRss4').FeedEk({
+    		FeedUrl : 'http://news.ipmsusa3.org/news.xml',
+    		MaxCount : 5,
+    		ShowDesc : true,
+    		ShowPubDate:true,
+    		DateFormat: 'LL',
+    		DescCharacterLimit:1000,
+    		TitleLinkTarget:'_blank'
+  		});
+	});
+</script>
+
+<div id="divRss4"></div>
+	<a href="http://news.ipmsusa3.org" target="_blank" class="btn btn-primary ">Read the News &raquo;</a>         
+
+ <hr/>        
+          <h2><a href="http://members.ipmsusa3.org/journal_issue/volume_29-issue_6" target="_blank">In The Latest Journal</a></h2>
+          <a href="http://members.ipmsusa3.org/journal_issue/volume_29-issue_6" target="_blank"><img src="/images/journal_covers/V29J06-Cover-sm.jpg" alt="Current Journal Cover" width="120" height="155" class="img-thumbnail pull-right"></a>
+<ul><li><strong>Builder Beware</strong> - The Controversy of Panel Lines Art or Reality?, by H. Davis Gandees</li>
+<li><strong>Fixing a Model for a Record Breaker</strong> - How IPMS Led to Meeting New York-to-London Record Holder Jim Sullivan, by Dick Enger</li>
+<li><strong>Building the First Bearcat Last</strong> - Converting the Prototype XF8F-1, by H. Davis Gandees</li>
+<li><strong>Mr. Small Sho't</strong> - Executing a Full Rebuild of the 1:76 Airfix kit to get an IDF Centurion Mk. 5, by Sam Morgan</li>
+<li><strong>Tragic Victor</strong> - 1920 Indy-winning Monroe/Frontenac, by David Kimbrell</li>
+<li><strong>American's Original Orbiter</strong> - Giving Glencoe's 1:6 Explorer 1 a Modern-Day Treatment, by Annette Sostarich</li>
+<li><strong>Kansen Commander</strong> - First-wave Fighter Leader at Pearl Harbor with Hasegawa's A6M2b Zero, by Patrick Brown</li>
+<li><strong>Subterranean Showdown </strong>- Planning and Digging into a 1:35 Shadowbox Diorama, by Mike McFadden</li>
+<li><strong>"Red group, Gold group, all fighters - follow me!"</strong> - Depicting the final attack on the Deathstar in 1:280 scale, by Dan Thompson</li>
+</ul>
+          <p><a href="https://members.ipmsusa3.org/journal-article-index">Download sample Journal Articles</a>.<br/>
+            Also see our <strong><a target="_blank" href="http://members.ipmsusa3.org/journal_index">Journal Index of Issues</a></strong>! </p>       
+      </article>
+        <article class="col-md-6">
+<h2>New Reviews</h2>
+<script type="text/javascript">
+	$(function () {
+		$('#divRss2').FeedEk({
+    		FeedUrl : 'http://web.ipmsusa3.org/recent_date/rss.xml',
+    		MaxCount : 3,
+    		ShowDesc : true,
+    		ShowPubDate:true,
+    		DateFormat: 'LL',
+    		DescCharacterLimit:1000,
+    		TitleLinkTarget:'_blank'
+  		});
+	});
+</script> 
+          <div id="divRss2"></div>
+          <a href="http://web.ipmsusa3.org" target="_blank" class="btn btn-primary ">Read the Reviews &raquo;</a> 
+          
+            <hr/>
+            <h2>Upcoming Events</h2>
+<script type="text/javascript">
+	$(function () {
+		$('#divRss').FeedEk({
+    		FeedUrl : 'http://calendar.ipmsusa3.org/event_feed.rss',
+    		MaxCount : 7,
+    		ShowDesc : false,
+    		ShowPubDate:false,
+    		DateFormat: 'LL',
+    		DescCharacterLimit:100,
+    		TitleLinkTarget:'_blank'
+  		});
+	});
+</script> 
+          <div id="divRss"></div>
+          <a href="http://calendar.ipmsusa3.org" target="_blank" class="btn btn-primary">Visit the Calendar &raquo;</a>
+          <hr/>
+          <h2>New  Forum Posts</h2>
+<script type="text/javascript">
+	$(function () {
+		$('#divRss3').FeedEk({
+    		FeedUrl : 'https://forum.ipmsusa3.org/index.php?/rss/1-ipmsusa-forums.xml/',
+    		MaxCount : 7,
+    		ShowDesc : false,
+    		ShowPubDate:true,
+    		DateFormat: 'LL',
+    		DescCharacterLimit:100,
+    		TitleLinkTarget:'_blank'
+  		});
+	});
+</script> 
+
+          <div id="divRss3"></div>
+          <a href="https://forum.ipmsusa3.org/index.php?/discover/" target="_blank" class="btn btn-primary">Visit the Forum &raquo;</a> 
+        </article>
+        
+        <!--/span--> 
+        
+  
+
+      </div>
+
+    </div>
+  </div>
+
+	
+  <!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>

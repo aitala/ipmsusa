@@ -1,0 +1,166 @@
+/*!
+ * Local CSS Custom code
+ */
+/* CBL Sidebar */
+/*.rssFeed
+{
+	font-size: 75%;
+	margin: 1em 2em;
+}
+.rssFeed a
+{
+	color: #0000FF;
+	text-decoration: none;
+}
+.rssFeed a:hover
+{
+	color: #000;
+	text-decoration: underline;
+}
+
+.rssHeader { padding: 0.2em 0; }
+
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p
+{
+	margin: 0;
+	padding: 0;
+}
+
+.rssRow { padding: 0.6em; }
+.rssRow h4 { font-size: 1em; }
+.rssRow div
+{
+	font-size: 90%;
+	color: #666;
+	margin: 0.2em 0 0.4em 0;
+}
+
+.odd { background-color: #EEEEEE; }
+.even { background-color: #d4d4e8; }
+*/
+.navbar-inverse {
+  background-color: #2541e2;
+  background-image: -moz-linear-gradient(top, #2541e2 0%, #0e0980 100%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2541e2), to(#0e0980));
+  background-image: -webkit-linear-gradient(top, #2541e2, #0e0980);
+  background-image: -o-linear-gradient(top, #2541e2, #0e0980);
+  background-image: linear-gradient(to bottom, #2541e2, #0e0980);
+  background-repeat: repeat-x;
+  border-color: #2541e2;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2541e2', endColorstr='#ff0e0980', GradientType=0); }
+  .navbar-inverse .nav li.dropdown.open > .dropdown-toggle {
+    background-color: #2541e2; }
+  .navbar-inverse .nav li.dropdown.active > .dropdown-toggle {
+    background-color: #2541e2; }
+  .navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle {
+    background-color: #2541e2; }
+  .navbar-inverse .nav > li > a {
+    color: #d6d6d6; }
+  .navbar-inverse .brand {
+    color: #d6d6d6; }
+
+.dropdown-menu li > a:hover {
+  background-color: #2541e2;
+  background-image: -moz-linear-gradient(top, #2541e2, #0824be 0%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2541e2), to(#0824be));
+  background-image: -webkit-linear-gradient(top, #2541e2, #0824be);
+  background-image: -o-linear-gradient(top, #2541e2, #0824be);
+  background-image: linear-gradient(to bottom, #2541e2, #0824be);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2541e2', endColorstr='#ff0824be', GradientType=0);
+  color: #ffffff; }
+.dropdown-menu li > a:focus {
+  background-color: #2541e2;
+  background-image: -moz-linear-gradient(top, #2541e2, #0824be 0%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2541e2), to(#0824be));
+  background-image: -webkit-linear-gradient(top, #2541e2, #0824be);
+  background-image: -o-linear-gradient(top, #2541e2, #0824be);
+  background-image: linear-gradient(to bottom, #2541e2, #0824be);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2541e2', endColorstr='#ff0824be', GradientType=0);
+  color: #ffffff; }
+
+.dropdown-submenu:hover > a {
+  background-color: #2541e2;
+  background-image: -moz-linear-gradient(top, #2541e2, #0824be 0%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2541e2), to(#0824be));
+  background-image: -webkit-linear-gradient(top, #2541e2, #0824be);
+  background-image: -o-linear-gradient(top, #2541e2, #0824be);
+  background-image: linear-gradient(to bottom, #2541e2, #0824be);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2541e2', endColorstr='#ff0824be', GradientType=0);
+  color: #ffffff; }
+
+footer.row {
+  background-image: url(/images/usflag.gif);
+  background-repeat: no-repeat;
+  background-position: left top; }
+
+ul.feedEkList li img {
+  float: right;
+  padding: 5px;
+  border: 1px solid #ddd;
+  margin: 0 0 0 5px; }
+ul.feedEkList div.itemTitle {
+  font-size: 18px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+ul.feedEkList div.itemDate {
+  font-weight: 500; }
+
+div#divRss2 ul.feedEkList {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  div#divRss2 ul.feedEkList > li {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px; }
+
+article.front-block {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px; }
+
+.hero-unit {
+  padding: 40px; }
+
+.front-block .btn-primary {
+  margin-bottom: 10px; }
+
+.tocify {
+  z-index: 100000; }
+
+.rssRow {
+  clear: both; }
+
+.fixed_width_map {
+  min-height: 319px;
+  min-width: 553px; }
+
+.table-nonfluid {
+  width: auto; }
+
+div.flag-background {
+  background-image: url(/images/usflag.jpg);
+  background-repeat: no-repeat;
+  background-position: 15px top; }
+
+h1 {
+  text-shadow: 0.075em 0.075em 0.15em #fff; }
+
+@media (min-width: 768px) {
+  .navbar {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0; } }

@@ -1,0 +1,295 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | Special Achievement Awards</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+  <div class="row">
+    <article class="col-sm-12 col-md-9">
+      <h2>Special Achievement Awards</h2>
+      <p>Each year, the IPMS/USA 
+        Executive Board is pleased to present several <b>Special Achievement Awards</b> at the annual National Convention.</p>
+      <h3>Award Cycle and Nomination Process</h3>
+      <p>The Award cycle begins January 1 of the preceding year and ends December 31 of the preceding year. All nominations for all awards are due to the <u>Director of Local Chapters</u> (<a href="mailto:dlc@ipmsusa.org">dlc@ipmsusa.org</a>) no later than March 15th of the current year. Example: for the awards to be handed out at the 2015 Nationals in Columbus, Ohio, award cycle for 2014 runs from Jan 1, 2014 to Dec 31, 2014. Deadline for award nomination submissions will be March 15, 2017</p>
+      <p>The nomination process begins at the Regional level, with regional nominations being submitted to the Regional Coordinator by the local Chapters or individual IPMS members. Regional Coordinators will select a Regional recipient for the Chapter of the Year Award, the Newsletter of the Year Award, and the Webmaster of the Year Award, and those winners become that Region's nominees for the national awards.</p>
+      <p>The RCs are responsible for ensuring that a nomination for all three awards is submitted for their region, and that the nominations are <u>accompanied by supporting documentation</u>. A nomination that has supporting documentation has a distinct advantage over a nomination that simply listed a chapter name or the name of a chapter member. </p>
+      <p>Guidelines that the EB will use to select the national recipients for awards</p>
+      <hr>
+      
+      </article>
+      <div  class="col-sm-12 col-md-3">
+      <h3>Award Recipients</h3>
+        <ul class="nav nav-pills nav-stacked">
+			<li><a href="/member_services/achievement_awards/achievement_awards_chapter_oty_list.shtml">Mike Rastiello Chapter of the Year Award</a></li>
+            <li><a href="/member_services/achievement_awards/achievement_awards_newsletter_oty_list.shtml">Newsletter of the Year Award</a></li>
+			<li><a href="/member_services/achievement_awards/achievement_awards_rc_oty_list.shtml">Region Coordinator of the Year Award</a></li>
+			<li><a href="achievement_awards_wmoty_list.shtml">Ralph Forehand Website of the Year Award</a></li>
+		</ul>
+	</div>
+      
+    <article class="col-sm-12 col-md-12">
+
+      <h3>Mike Rastiello Chapter of the Year Award</h3>
+      <p>This annual award is presented to the IPMS/USA chapter that best exemplifies the spirit and philosophy of IPMS/USA.</p>
+      <p>Documentation for this award may include, but not be limited to, such information as:</p>
+      <ol>
+        <li>A couple of key words here: PROMOTION and SERVICE.&nbsp; We want to recognize chapters that PROMOTE both the plastic modeling hobby and our Society.&nbsp; We also want to recognize chapters that provide SERVICE to their communities.</li>
+        <li><strong>PROMOTION EFFORTS</strong> - Don&rsquo;t just say, &ldquo;We promote modeling&rdquo;. WHAT do you do?&nbsp; HOW do you get the &ldquo;closet modeler&rdquo; out of hiding?&nbsp; HOW do you encourage modeling as a mainstream leisure activity?&nbsp; WHAT do you do to actively encourage youngsters to begin building, or attract older modelers back to the hobby of their youth?&nbsp; WHAT are your organized promotion efforts?&nbsp; Don&rsquo;t just tell us that you have mall shows- members sitting around talking to each other inside a corral of models is not effective contact with the public!&nbsp; WHAT do you do to make one-on-one contact with outsiders?&nbsp; HOW do you use local media - TV, newspaper articles, etc., to promote the hobby, and your group?&nbsp; WHAT programs do you have aimed at various age groups?&nbsp; ABC courses, Make and Take activities, public and parochial schools events, Boy, Girl, and Cub Scouts, church youth programs, veterans&rsquo; groups at VA hospitals, are all good possibilities-there are many others.</li>
+        <li>IPMS membership within the club: Ten IPMS members in a club that has 12 or 13 total total members on its roster in a small city shows more commitment to IPMS/USA than fifteen national members of in a club of fifty in a major metropolitan area.&nbsp; WHAT increase in IPMS/USA membership have you achieved, and over what period?&nbsp; HOW do you actively recruit the non-members already in your group?&nbsp; WHAT INCENTIVES for IPMS/USA membership- discount local chapter dues, discount contest registration, extra raffle tickets, etc.- do you use? Show verification that all officers (or leaders, if no officers exist) and the Chapter Contact are IPMS members with their membership being active between April 1st and August 31st. This guarantees that the leadership of the local club are IPMS members at the time of selection and presentation of this award.</li>
+        <li><strong>COMMUNITY SERVICE</strong> - HOW do you support your community in other ways?&nbsp; WHAT volunteer work do members do?&nbsp; This doesn&rsquo;t mean JUST making cash donations; while donating money to worthy causes is commendable, actually having members of your group participating in these activities (litter clean-up campaigns, volunteer work with charitable organizations, fund drives, etc.) is even better!&nbsp; An important point - helping to give self-esteem to a disabled veteran or a handicapped child, by showing them that he or she is capable of doing a complex task like building a model, will make your club look good.&nbsp; But the inner glow your members get will be even better! Don&rsquo;t forget that the award is NOT about how well a collection of individuals build models; it reflects how well a group is functioning as a social unit.</li>
+        <li>List of any chapter members who serve IPMS/USA as appointed IPMS Staff, such as Journal staff, Website staff, Forum staff, members of the Reviewer Corps, or other jobs of a similar and non-elective nature.</li>
+        <li>Chapter support for IPMS/USA through sponsorship of individual membership drives, payment of IPMS membership fees, or membership incentive programs.</li>
+        <li>Chapter support through the prominent placement of an IPMS/USA membership application within chapter publication and on its website.</li>
+        <li>Hosting an MnT event, an ABC event, a contest which uses, for the most part, IPMS judging guidelines and category/class structures, a Regional Convention, or a national convention.</li>
+        <li>Support of the Events gallery, the Walkaround gallery, the Member&rsquo;s Gallery, and other &ldquo;galleries&rdquo; and &ldquo;albums&rdquo; that are hosted on the IPMS website.</li>
+        <li>Participation by a chapter member, or by the chapter as a whole, in such IPMS initiatives as &ldquo;Support the Troops&rdquo;.</li>
+        <li>Positive and cooperative relationships with chapters within their Regions, geographic area, and with the national level of IPMS/USA</li>
+        <li><strong>PRESENTATION</strong> - Now it&rsquo;s important to remember that you must convince others - the E-Board - how good you are!&nbsp; In other words, your PRESENTATION can be as important as WHAT YOU DID!&nbsp; It is STRONGLY suggested that the WHOLE chapter get involved in this project.&nbsp; Some individual must have overall responsibility, of course, but at least several others should be involved in the actual writing and editing of the nomination.&nbsp; First, this will prevent details from being forgotten or overlooked; secondly, it will help prevent spelling and other errors.&nbsp; Don&rsquo;t just saddle one guy with the project. </li>
+      </ol>
+      <p>View the list of <a href="/member_services/achievement_awards/achievement_awards_chapter_oty_list.shtml">  Previous Recipients</a> of the Chapter of the Year Award.</p>
+      <hr>
+      <h3>Newsletter of the Year Award</h3>
+      <p>This annual award is presented to the IPMS/USA chapter and editor of the newsletter than best exemplifies the goals and spirit of IPMS/USA.</p>
+      <p>Documentation for this award may include, but not be limited to, such information as:</p>
+      <ol>
+        <li>The editor is a current IPMS member and will be so at the time of the presentation of the award which takes place at the National Convention. (The winner need not be in attendance to &ldquo;win&rdquo;. The award will be sent to the chosen recipient.)</li>
+        <li>At these <em><strong><u>three (3) copies</u></strong></em> of the newsletter that show attention to spelling, grammar, and appropriate content for readers of all ages.</li>
+        <li>Support through the prominent placement of an IPMS/USA membership application within chapter publications.</li>
+        <li>Listing of the IPMS/USA website url.</li>
+        <li> Inclusion of messages from the IPMS Regional Coordinator.</li>
+        <li>Inclusion of a complete list of Chapter Officers (some Chapters do not have official officers and that will not have a negative impact on consideration for any IPMS sponsored award) and Chapter Contact.</li>
+        <li>Evidence of a positive and cooperative relationship with other chapters within their Region and geographic area by the inclusion of information related to contests and events hosted by neighboring chapters.</li>
+        <li> A track record of on-time publication and distribution of the newsletter. </li>
+        <li>Appearance, aided by a layout, images, and text, which have eye appeal and lend a &ldquo;professional&rdquo; quality to the publication.</li>
+      </ol>
+      View the 
+      list of <a href="/member_services/achievement_awards/achievement_awards_newsletter_oty_list.shtml">Previous Recipients</a> of the 
+      Newsletter of the 
+      Year Award.
+      <hr>
+      <h3>Region Coordinator of The Year </h3>
+      <p>The Regional Coordinator of the Year 
+        is selected by the Director of Local Chapters, based on several aspects of 
+        their performance. Among the areas reviewed are the RC?s level and quality 
+        of activity with the DLC, the level of RC's efforts in coordinating 
+        Contests and Shows with the DLC, the degree of assistance afforded to the 
+        DLC in the formation of any new Chapters, and the level to which the RC's 
+        keep their Chapters informed of happenings between the DLC and the 
+        Regions. </P>
+        <p>View the list of <a href="/member_services/achievement_awards/achievement_awards_rc_oty_list.shtml" >Previous Recipients</a> of the Region 
+        Coordinator of the Year Award.</p>
+      <hr>
+      <h3>Ralph Forehand Website of the Year Award</h3>
+      <p>This annual award is presented to the webmaster whose chapter website best exemplifies the goals and spirit of IPMS/USA.</p>
+      <p>Documentation for this award may include, but not be limited to, such information as:</p>
+      <ol>
+        <li>The webmaster is a current IPMS member and will be so at the time of the presentation of the award.</li>
+        <li>Maintenance of an accurate and working url which is routinely checked and authenticated by the local chapter. </li>
+        <li>No broken links within the chapter website and evidence of routine maintenance within the website.</li>
+        <li>Ease of navigation and a design that can be termed &ldquo;user friendly&rdquo;</li>
+        <li>Support for IPMS/USA as evidenced by the prominent inclusion of a link to the IPMS/USA website, and as evidenced by a positive representation of IPMS/USA in general.</li>
+        <li>Inclusion of fresh content as well as archival information related to the history of the chapter.</li>
+        <li>Features which encourage modelers to visit the website and encourage modelers to join the local chapter and join IPMS/USA.</li>
+        <li>Evidence of support for other IPMS chapters within their region and geographic area.</li>
+      </ol>
+      <p>View the list of <a href="/member_services/achievement_awards/achievement_awards_wmoty_list.shtml"> Previous Recipients</a> of the Website of the 
+        Year Award.</p>
+    </article>
+  </div>
+  <!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>

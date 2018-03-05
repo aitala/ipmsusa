@@ -1,0 +1,159 @@
+@charset "UTF-8";
+/* CSS Document */
+a {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:visited {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:link {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:active {
+	font-family: Verdana;
+	color: #0000FF;
+	text-decoration: none;
+	font-size: 10pt;
+	font-weight: bold
+}
+a:hover {
+	font-family: Verdana;
+	color: #000077;
+	font-size: 10pt;
+	font-weight: bold
+}
+body, td, th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+	font-size: 10pt;
+}
+body {
+	background-color: #EEEEEE;
+}
+.col_padding {
+	padding-right: 8px;
+}
+#datecolor {
+	color: #000080;
+}
+.lastmod {
+	font-size: x-small;
+	padding-top: 5px;
+}
+.bluetext {
+	color: #000080;
+}
+
+.rssFeed
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 75%;
+	margin: 1em 2em;
+}
+.rssFeed a
+{
+	color: #0000FF;
+	text-decoration: none;
+}
+.rssFeed a:hover
+{
+	color: #000;
+	text-decoration: underline;
+}
+
+.rssHeader { padding: 0.2em 0; }
+
+.rssBody { border: 1px solid #999; }
+.rssBody ul { list-style: none; }
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p
+{
+	margin: 0;
+	padding: 0;
+}
+
+.rssRow { padding: 0.6em; }
+.rssRow h4 { font-size: 1em; }
+.rssRow div
+{
+	font-size: 90%;
+	color: #666;
+	margin: 0.2em 0 0.4em 0;
+}
+
+.odd { background-color: #EEEEEE; }
+.even { background-color: #d4d4e8; }
+.newslist {
+	list-style-type: none;
+	padding-bottom: 1em;
+}
+.eboard_menu {
+/*	background-image: url(images/buttons/btn_00b_blank.jpg);
+	background-repeat: no-repeat; 
+	background-color:#efefef;
+	text-align: left;
+	padding: 3px 0 3px 15px;*/
+}
+.eboard_menu_head {
+	text-align: center;
+	width: 175px;
+	height: 101px;
+}
+.eboard_menu a:link, .eboard_menu a:visited, .eboard_menu a:hover, .eboard_menu a:active {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	font-size: 95%;
+}
+body {
+	background-color: #fbf8f8;
+	margin:0px;
+	padding: 0px;
+}
+#main_menu {
+	width: 175px;
+	padding-left: 10px;
+	float:left;
+	background-image: url(../archive/images/flagbanner.gif);
+	background-repeat: no-repeat;
+}
+#content {
+	float: left;
+	width: 682px;
+	padding-left: 10px;
+}
+#footer {
+	clear: both;
+	width: 857px;
+	text-align: right;
+}
+.red_highlight {
+	color:red;
+	font-weight:600;
+}
+.header1_text, .header2_text {
+	padding: 0px;
+	margin: 0px;
+}
+#wrap {
+	width:900px;
+	margin:0 auto;
+	text-align: left;
+	float: left;
+}
+.sf-menu a.menu_bottom {
+	border-bottom:	1px solid #CFDEFF;
+}
+.ipms_image {
+	padding: 5px 5px;
+}

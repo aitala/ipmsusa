@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+a {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:visited {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:link {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold
+}
+a:active {
+	font-family: Verdana;
+	color: #0000FF;
+	text-decoration: none;
+	font-size: 10pt;
+	font-weight: bold
+}
+a:hover {
+	font-family: Verdana;
+	color: #000077;
+	font-size: 10pt;
+	font-weight: bold
+}
+body, td, th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+	font-size: 10pt;
+}
+body {
+	background-color: #EEEEEE;
+}
+.col_padding {
+	padding-right: 8px;
+}
+#datecolor {
+	color: #000080;
+}
+.lastmod {
+	font-size: x-small;
+	padding-top: 5px;
+}
+.bluetext {
+	color: #000080;
+}
+
+.rssFeed
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 75%;
+	margin: 1em 2em;
+}
+.rssFeed a
+{
+	color: #0000FF;
+	text-decoration: none;
+}
+.rssFeed a:hover
+{
+	color: #000;
+	text-decoration: underline;
+}
+
+.rssHeader { padding: 0.2em 0; }
+
+.rssBody { border: 1px solid #999; }
+.rssBody ul { list-style: none; }
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p
+{
+	margin: 0;
+	padding: 0;
+}
+
+.rssRow { padding: 0.6em; }
+.rssRow h4 { font-size: 1em; }
+.rssRow div
+{
+	font-size: 90%;
+	color: #666;
+	margin: 0.2em 0 0.4em 0;
+}
+
+.odd { background-color: #EEEEEE; }
+.even { background-color: #d4d4e8; }
+
+.archive_notice {
+	padding:3px;
+	margin:5px;
+	background-color: yellow;	
+}

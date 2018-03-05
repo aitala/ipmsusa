@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<base target="_self">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10072279-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript" src="http://www.ipmsusa.org/js/popup.js"></script>
+<link href="http://www.ipmsusa.org/css/ipms_style.css" rel="stylesheet" type="text/css" media="screen">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="content"><!-- TemplateBeginEditable name="Contents" -->
+<!-- TemplateEndEditable --></div>
+<div class="lastmod" id="footer" style="width: 682px;"><hr><div style="text-align: right;"><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a></div></div>
+</body>
+</html>

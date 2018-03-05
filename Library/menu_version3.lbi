@@ -1,0 +1,47 @@
+<script> 
+ 
+    $(document).ready(function(){ 
+        $("ul.sf-menu").superfish({ 
+            animation: {height:'show'},   // slide-down effect without fade-in
+			autoArrows:  false, 
+            delay:     300,              // 1.2 second delay on mouseout 
+			dropShadows: false
+        }); 
+    }); 
+ 
+</script>
+
+<div class="eboard_menu_head"><a href="http://www.ipmsusa.org"><img src="../images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94" border="0" /></a></div>
+<ul class="sf-menu sf-vertical sf-js-enabled">
+  <li class="eboard_menu"><a href="../index_tst.shtml" title="IPMS/USA Home Page">Home Page</a></li>
+  <li class="eboard_menu"><a href="../whats_new.shtml" title="What's New">What's New?</a></li>
+  <li class="eboard_menu"><a href="../about/index.shtml" title="About IPMS/USA" >About IPMS/USA</a>
+    <ul class="sf-menu">
+      <li class="eboard_menu menu_bottom"><a href="../executive_board/index.shtml" title="Officer Directory &amp; Email" >Officer Directory &amp; Email</a></li>
+    </ul>
+  </li>
+  <li class="eboard_menu"><a href="../events/index.asp" title="Upcoming Events" >Upcoming Events</a></li>
+  <li class="eboard_menu"><a href="../chapters/index.asp" title="Chapter &amp; RC Directory" >Chapter &amp; RC Directory</a></li>
+  <li class="eboard_menu"><a href="../archive/MemberServices/memberservices.htm" title="Member Services">Member Services</a></li>
+  <li class="eboard_menu"><a href="http://web.ipmsusa3.org" title="Reviews">Reviews</a></li>
+  <li class="eboard_menu"><a href="http://forum.ipmsusa3.org" title="Forums">Forums</a></li>
+  <li class="eboard_menu"><a href="../makentake/index.shtml" title="Make 'N Take Program">Make 'N Take Program</a>
+    <ul class="sf-menu">
+      <li class="eboard_menu"> <a href="../new/makentake/manufacturers.shtml">Participating Mfgs</a></li>
+      <li class="eboard_menu menu_bottom"><a href="../new/makentake/products.shtml">Available Kits</a></li>
+    </ul>
+  </li>
+  <li class="eboard_menu"><a href="../new/national_contest_cmte/index.shtml" title="National Contest Committee">National Contest Cmt.</a>
+  <ul class="sf-menu">
+  <li class="eboard_menu"><a href="../new/national_contest_cmte/competion_handbook.shtml">Competition Handbook</a></li>
+  <li class="eboard_menu  menu_bottom"><a href="../new/national_contest_cmte/NCC_Members.shtml">NCC Members</a></li>
+  </ul>
+  </li>
+  <li class="eboard_menu"><a href="http://web.ipmsusa3.org/sigs" title="Special Interest Groups">Special Interest Groups</a></li>
+  <li class="eboard_menu"><a href="../special_features/index.shtml" title="Special Features">Special Features</a></li>
+  <li class="eboard_menu"><a href="http://www.ipmsusa3.org/gallery" title="Galleries">Galleries</a></li>
+  <li class="eboard_menu"><a href="../support_the_troops/index.shtml" title="Supporting the Troops" >Supporting The Troops</a></li>
+  <li class="eboard_menu"><a href="../executive_board/index.shtml" title="Officer Directory &amp; Email" >Officer Directory &amp; Email</a></li>
+  <li class="eboard_menu"><a href="http://www.ipmsusa2.org/store/ipms_membership.html" title="Join IPMS/USA" target="_blank">Join IPMS/USA!</a></li>
+  <li class="eboard_menu  menu_bottom"><a href="http://www.ipmsusa2.org/store/ipms_membership.html" title="Renew IPMS/USA" target="_blank">Renew IPMS/USA!</a></li>
+</ul>

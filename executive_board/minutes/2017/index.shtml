@@ -1,0 +1,223 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | Executive Board Meeting Minutes - 2017</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+  <div class="row">
+    <article class="col-md-12">
+      <h2>2017 Executive Board Meeting Minutes      </h2>
+      <ul>
+        <li><a href="/executive_board/minutes/2017/minutes_17_01.shtml">January</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_02.shtml">February</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_03.shtml">March</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_04.shtml">April</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_05.shtml">May</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_06.shtml">June</a></li>
+        <li><a href="http://news.ipmsusa3.org/news/ipmsusa-business-meeting-slides-july-29-2017">July</a> - National Convention Business Meeting</li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_08.shtml">August</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_09.shtml">September</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_10.shtml">October</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_11.shtml">November</a></li>
+        <li><a href="/executive_board/minutes/2017/minutes_17_12.shtml">December</a></li>
+      </ul>
+    </article>
+  </div>
+  <!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>

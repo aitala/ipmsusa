@@ -1,0 +1,477 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | Constitution and By-Laws</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+	<link type="text/css" rel="stylesheet" href="/js/tocify/src/stylesheets/jquery.tocify.css" />
+	<link type="text/css" rel="stylesheet" href="/js/jquery-ui/jquery-ui.min.css"/>
+	<script src="/js/jquery-ui/jquery-ui.min.js"></script>
+	<script src="/js/tocify/src/javascripts/jquery.tocify.min.js"></script>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+<div class="row">
+    <article class="col-md-8" role="main">
+
+            <h1> Constitution and By-Laws</h1>
+            
+            <h2><a name="constitition">CONSTITUTION OF THE INTERNATIONAL PLASTIC MODELERS SOCIETY/USA</a></h2>
+		<p>Adopted 1968<br>
+	    Revised 1972, 1976, 1978, 1981, 1982, 2001, 2003, 2005, 2011, 2017</p>
+            <p>We, a group of individuals united by a common bond of mutual interest, do hereby establish a non-profit association of plastic modelers with the purposes and objectives set forth herein.</p>
+            
+            <h3><a name="article1">ARTICLE I. NAME</a></h3>
+            <p>The name of this group is established as the INTERNATIONAL PLASTIC MODELERS' SOCIETY/UNITED STATES OF AMERICA branch; affiliated by common interest with member groups established in other nations in accordance with the principles of the founding organization of the International Plastic Modelers Society located in the United Kingdom.</p>
+            
+            <h3><a name="article2">ARTICLE II.  PURPOSE AND OBJECTIVES</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>To encourage interest in scale modeling and assist interested organizations and groups.</li>
+              <li>To ensure the timely exchange of modeling information and to provide information, data, and other assistance to members and chapters. </li>
+              <li>To provide for the members' interests by keeping them informed of new products and services. </li>
+              <li>To establish and maintain liaison with manufacturers of products associated with the modeling hobby where possible.</li>
+              <li>To establish and maintain liaison with foreign IPMS branches.</li>
+              </ol>
+            
+            <h3><a name="article3">ARTICLE III</a></h3>
+            <p>If, for any reason the society should be dismantled or dissolved, all assets and monies shall be given to the Air and Space Museum of the Smithsonian Institution, Washington, DC.</p>
+            
+      <h2><a name="by-laws">BY-LAWS OF THE INTERNATIONAL PLASTIC MODELERS SOCIETY/USA</a></h2>
+      
+            <h3><a name="bl-article1">ARTICLE I. MEMBERSHIP</a></h3>
+			<h4>A. Application for Membership</h4>
+
+                
+                <ol>
+                  <li>Any individual, regardless of race, color, creed, sexual orientation or national origin may submit an official application for membership.</li>
+                  <li>The Executive Board will have the ultimate responsibility for making the decision for acceptance or rejection of any application.</li>
+                  <li>Any applicant accepted for membership agrees to abide by the terms and conditions of the Constitution and By-Laws of IPMS/USA along with regulations and directives promulgated by the Executive Board.</li>
+                  <li>Foreign nationals may be members of PMS/USA but may not hold National office</li>
+                  </ol>
+                
+                <h4>B. Dismissal of Members</h4>
+                <ol>
+                  <li>A member whose written and/or spoken words or actions are deemed detrimental to the good of the Society, may be dropped from the rolls of the Society by the Executive Board. Any such member will be notified by the President of the action taken and will receive a pro-rated refund of any dues paid for that year.</li>
+                  <li>Ex-members so dismissed may reapply for membership one year after dismissal. Any such re-application will be subject to re-evaluation by the Executive Board.</li>
+                  </ol>
+
+                <h4>C. Classes and Privileges of Membership</h4>
+                <ol>
+                  <li>LIFE MEMBERSHIP may be granted only by the Executive Board to a member who has contributed to the success of IPMS/USA to an outstanding degree. Life memberships may not be granted to a current Executive Board member nor may they be rescinded at a later date.</li>
+                  <li>MEMBER IN GOOD STANDING is defined as a person who is accepted for membership,maintains his dues and abides by the IPMS/USA Constitution and By-Laws.</li>
+                  <li>SPECIAL MEMBERSHIP is granted to all Executive Board Officers during and for five years after their national terms of office. Other officers may be given a special membership during their period of service to IPMS/USA.</li>
+                  <li>Life Members, Members in Good Standing, and Special Members shall be privileged to vote, hold national office, serve on committees, attend any meetings, receive all national IPMS/USA publications, and enjoy all other privileges of membership with the exception of I/A.4 above.</li>
+                  <li>FAMILY MEMBERSHIP A family may join IPMS/USA at the dues level set by the Executive Board. Only one member of a Family membership may vote, hold National Office, or serve on committees. All members of a Family may attend any IPMS meeting, function, or contest and enjoy all other privileges of membership.</li>
+                  <li>COMPLIMENTARY MEMBERSHIP. Shall be afforded any individual or organization that provides material benefit to the membership. This privilege may be granted only by the Executive Board and will be reviewed annually.</li>
+                  </ol>
+
+            
+            <h3><a name="bl-article2">ARTICLE II. OFFICERS</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>The officers of the Society shall be a President, First Vice President, Second Vice President, Secretary, Treasurer, Historian/Publications Director, Recruitment/Retention Secretary and Director of Local Chapters</li>
+              <li>To facilitate the functioning and control of IPMS/USA, the Executive Board may appoint members in good standing to specific titled positions. These appointees will not have a vote within the Executive Board unless so directed by the President under special conditions</li>
+              <li>With the exception of III.B.1. below, if a national officer must for any reason relinquish his position during his term, the Executive Board may appoint a current member in good standing to that office as a replacement for the balance of the term, with said replacement having the duties, voting rights, and other privileges of the office.</li>
+              </ol>
+            
+            <h3><a name="bl-article3">ARTICLE III. DUTIES OF OFFICERS</a></h3>
+
+                <h4>A. President</h4>
+                <ol>
+                  <li>The President shall preside at all meetings of the Executive Board and National meetings and shall be the official representative of IPMS/USA to all outside organizations and/or individuals.</li>
+                  </ol>
+                
+                <h4>B. First Vice President</h4>
+                <ol>
+                  <li>The First Vice President shall preside in the absence of the President and shall be prepared to assume the presidency immediately if needed.</li>
+                  <li>The First Vice President will act as the society's liaison with the manufacturers of model kits and associated products and services.</li>
+                  <li>The First Vice President will provide timely information regarding manufacturers and their products to the membership.</li>
+                  </ol>
+                
+                <h4>C. Second Vice President</h4>
+                <ol>
+                  <li>The Second Vice President shall be responsible for the coordination of the National Convention location/host selection system and shall manage subsequent communication between the Executive Board and the National Convention Chairmen.</li>
+                  <li>The Second Vice President shall preside in the absence of the President and the First Vice President.</li>
+                  </ol>
+               
+                <h4>D. Secretary</h4>
+                <ol>
+                  <li>The Secretary shall keep the minutes of all official meetings and will ensure that they are made available to the general membership.</li>
+                  <li>The Secretary shall assist the President at national meetings.</li>
+                  <li>The Secretary will function as Corresponding Secretary when necessary.</li>
+                  <li>The Secretary will assist all National Officers with correspondence when necessary.</li>
+                  <li>The Secretary will be responsible for all correspondence with and liaison between any foreign branches of IPMS and IPMS.USA.</li>
+                  </ol>
+                
+                <h4>E. Treasurer</h4>
+                <ol>
+                  <li>The position of Treasurer shall be an appointed position. The Treasurer shall be selected by the Executive Board.</li>
+                  <li>The Treasurer's duties and responsibilities shall include:<br />
+                    <ol start="1" style="list-style-type: lower-alpha;">
+                      <li>collecting all monies and make all disbursements keeping detailed accounts of all monies received and expended by the Society.</li>
+                      <li>making a yearly financial report that will be made available to the membership.</li>
+                      <li>preparing and filing any necessary financial forms such as an income tax return.</li>
+                      <li>keeping the Eboard and President aware of IPMS/USA's financial status.</li>
+                      <li>being bonded for the National Society.</li>
+                      <li>having a working knowledge of accepted accounting practices acquired by training and/or experience.</li>
+                      </ol>
+                    </li>
+                  </ol>
+
+                <h4>F. Historian/Publications Director</h4>
+                <ol>
+                  <li>The Historian/Publications Director shall have direct responsibility for all Society publications.</li>
+                  <li>The Historian/Publications Director shall be responsible for publicity in commercial publications.</li>
+                  <li>The Historian/Publications Director shall appoint the Editors with the Executive Board's approval.</li>
+                  <li>The Historian/Publications Director shall have control over commercial advertisements within the IPMS/USA publications with Executive Board approval.</li>
+                  <li>The Historian/Publications Director shall be responsible for securing copyrights in the name of IPMS/USA from the proper authorities for all National Society Publications.</li>
+                  <li>The Historian/Publications /Director will ensure that an archive of any IPMS/USA publications is maintained.</li>
+                  <li>The Historian/Publications Director shall insure that The Constitution in its current complete form shall be made available to the membership once per membership year.</li>
+                  </ol>
+  
+                <h4>G. Recruitment/Retention Secretary</h4>
+                <ol>
+                  <li>The Recruitment/Retention Secretary shall be responsible to designing and implementing programs to increase the membership of the Society. He or she will also maintain records of the results of any such programs.</li>
+                  <li>The Recruitment/Retention Secretary shall design and implement measures to recoup any losses of membership, including individually contacting in some way those whose membership has lapsed. He or she will also maintain records of the results of any such programs.</li>
+                  </ol>
+
+                <h4>H. Director of Local Chapters</h4>
+                <ol>
+                  <li>The Director will supply the Historian/Publications Director with a complete up-to date list of all chartered IPMS/USA Chapters and local groups along with the names and addresses of said groups. This will be done on an annual basis and will be made available to the membership.</li>
+                  <li>The Director shall assist in the formation and perpetuation of chartered IPMS/USA Chapters.</li>
+                  <li>The Director shall supply, upon request of an IPMS member, the name and address of IPMS/USA Chapters and/or groups functioning in his/her area.</li>
+                  <li>With Executive Board approval, the Director will appoint the Regional Coordinators.</li>
+                  <li>The Director of Local Chapters will provide assistance and services to local chapters.</li>
+                  </ol>
+ 
+            
+            <h3><a name="bl-article4">ARTICLE IV. TERMS OF OFFICE</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>All elected officers shall be elected every two years and will serve a two-year term of office commencing Nov. 1 following the election.</li>
+              <li>The President of IPMS/USA will be limited to two consecutive terms of office.</li>
+              <li>A past President may run for the office of President again after at least a two year hiatus.</li>
+              <li>If the First or Second Vice President must replace the President, the two term restriction will take effect after they have been actually elected to the office of President.</li>
+              <li>In the event the First or Second Vice President cannot or will not perform the duties of President, the Executive Board will appoint a President for the remainder of the unexpired term.</li>
+              </ol>
+            
+            <h3><a name="bl-article5">ARTICLE V. EXECUTIVE BOARD </a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>The Executive Board shall be made up of the following officers: President, First Vice President, Second Vice President, Secretary, Treasurer, Historian-Publications Director, Recruitment/Retention Secretary and Director of Local Chapters.</li>
+              <li>Two-thirds of the Executive Board will constitute a quorum.</li>
+              <li>Each member of the Executive Board shall have one vote.</li>
+              <li>A member of the Executive Board may be removed due to actions and/or words felt to be detrimental to the function of the Society by a vote of two thirds of the Executive Board.</li>
+              <li>No more than one member of any family can serve on the Executive Board at the same time.</li>
+              </ol>
+            
+            <h3><a name="bl-article6">ARTICLE VI. ELECTIONS</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>Elections for national officers will be held every two years. Candidates for an elected national position must complete an official IPMS/USA Candidate Form and submit it to either the national address or the Office Manager by December 31. Candidates for President must present the endorsements of twenty-five current IPMS members. Candidates for other elected positions must present fifteen such endorsements. The deadline for applying will be announced well enough in advance to allow candidates to complete the necessary tasks.</li>
+              <li>During the following year, each candidate will be given the opportunity to prepare a statement regarding their qualifications that will be made available to every member. These will be provided prior to the election so all members may become acquainted with each candidate.</li>
+              <li>Each member will have a ballot made available to them with sufficient time to return the ballot by Sept. 1 of that year for counting.</li>
+              <li>An impartial judge shall be appointed by the Executive Board to count all votes and report the results. The ballots shall be kept for two years and will be available for inspection by members of the Society.</li>
+              </ol>
+            
+            <h3><a name="bl-article7">ARTICLE VII. DUTIES OF OTHER APPOINTED OFFICIALS</a></h3>
+
+                <h4>A. Titled Positions</h4>
+                <ul>
+                  <li>By directive of the President and with approval of the Executive Board, any positions found necessary to the functioning, control, and maintenance of IPMS/USA may be created. These positions will be under the direct control of the President or other officer designated by him for the time required.</li>
+                  </ul>
+
+                <h4>B. Committees</h4>
+                <ul>
+                  <li>Committees established for specific tasks as required shall be created for a set period of time by the President and the Executive Board.</li>
+                  </ul>
+ 
+            
+            <h3><a name="bl-article8">ARTICLE VIII. MEETINGS</a></h3>
+
+                <h4>A. General Meetings</h4>
+                <ul>
+                  <li>The general meeting of the Society is the National Convention.</li>
+                  </ul>
+
+                <h4>B. Executive Board</h4>
+                <ul>
+                  <li>The Executive Board will meet at least quarterly every year. It may meet more often if it is deemed necessary.</li>
+                  </ul>
+
+                <h4>C. Special Meetings</h4>
+                <ul>
+                  <li>Special meetings of the Society or the Executive Board may be called at the President's discretion.</li>
+                  </ul>
+
+                <h4>D. National Conventions</h4>
+                <ol>
+                  <li>A national convention should be held every year.</li>
+                  <li>The National Convention and Contest shall be conducted in compliance with the National Convention Operating Parameters set by the Executive Board and the National Contest Rules and Categories provided by the National Contest Committee.</li>
+                  <li>The procedure for selecting a location/host chapter for the National Convention will be determined by the Executive Board and will be communicated by the Second Vice President to all Chartered Chapters.</li>
+                  <li>The Executive Board shall, in closed session, choose convention sites and make the appropriate announcements.</li>
+                  <li>Conventions will be open to members and guests except business meetings, which will be limited to members only.</li>
+                  <li>A National Model Contest will be conducted by the Host Chapter at each Convention with appropriate judges and trophies provided by the national organization.</li>
+                  <li>The National Convention and Contest shall be conducted under strict compliance with the National Parameters and Contest Rules and Categories provided to the Convention Committee by the National Executive Board.</li>
+                  </ol>
+
+            
+            <h3><a name="bl-article9">ARTICLE IX. FISCAL</a></h3>
+
+                <h4>A. Dues</h4>
+                <ul>
+                  <li>Dues for all types of membership shall be set by the Executive Board. At no time will this issue be subject to vote by the entire membership. The dues shall be adequate to provide services and benefits to each member as stated in the Constitution and By-Laws and sufficient to operate the Society throughout the fiscal year. Notification of a dues change will be made to the membership as soon as possible.</li>
+                  </ul>
+
+                <h4>B. Operating Costs</h4>
+                <ol>
+                  <li>Expenses, Normal; Officers will be reimbursed for normal operating expenses subject to the approval by the President and the Treasurer.</li>
+                  <li>Expenses, Special; Special expenses will be considered and decided upon by the President and Treasurer with the majority approval of the Executive Board.</li>
+                  <li>No Society financial support will be given to private projects or ventures.</li>
+                  <li>No projects will be undertaken for profit by the Society except by recommendation of the Treasurer.</li>
+                  </ol>
+
+                <h4>C. National Convention Accounts</h4>
+                <ol>
+                  <li>A bank account for each National Convention shall be established and continuously maintained, it's purpose being to collect and disburse monies for that National Convention.</li>
+                  <li>After paying all of the then current year's convention expenses, an amount equal to between five and eight percent of the national treasury will be retained in this account. All other money should be deposited in the IPMS/USA general treasury.</li>
+                  </ol>
+
+            <h3><a name="bl-article10">ARTICLE X. AMENDMENTS</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>The Constitution and By-Laws can be amended by a vote of the membership. Notification of a proposed amendment must be made available to the membership.</li>
+              <li>
+                <p class="h4">AMENDMENT PROCEDURE</p>
+                <ol>
+                  <li>Any current member in good standing of the Society may submit an amendment proposal using the Official IPMS/USA Amendment Form, which may be obtained from the Office Manager or the society's web site. The completed form must be returned to the Society's official address or Office Manager between July l and December 31.</li>
+                  <li>An amendment ballot will be made available to the membership and will be available at the National Convention with the proposed amendments. All ballots shall be mailed to the official address of the Society with a postmark prior to September 1 of that year or emailed to the Office Manager by that same date to be counted. A total valid voter response of at least 10 percent will be required to approve an amendment. The number will be determined by the count of the membership mailing.</li>
+                  <li>The Executive Board will appoint an impartial judge to count all votes and report the results. The ballots will be kept for two years and will be available for inspection by members of the Society at their request.</li>
+                  <li>The results of the balloting shall be announced to the membership.</li>
+                  </ol>
+                </li>
+              </ol>
+            
+            <h3><a name="bl-article11">ARTICLE XI. REGIONS AND REGIONAL COORDINATORS</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>The territorial United States will be divided into areas to be considered Regions with Chartered Chapters therein. International and virtual chapters will fall into another, separate region.</li>
+              <li>Each Region shall have as its representative a Regional Coordinator, nominated by the Director of Local Chapters and appointed for a term of four years by the Executive Board. In conjunction with the Director of Local Chapters, the Regional Coordinator will act as liaison between the chapters in his region and the National Executive Board.</li>
+              <li>A Regional Coordinator shall be eligible for re-appointment after each term of four years.</li>
+              </ol>
+            
+            <h3><a name="bl-article12">ARTICLE XII. CHARTERED CHAPTERS</a></h3>
+            <ol start="1" style="list-style-type: upper-alpha;">
+              <li>Any group of five or more IPMS/USA members in good standing, one of whom must be the chapter contact, may apply for a Chapter Charter from the Director of Local Chapters. The Executive Board must approve the chartering of all chapters.</li>
+              <li>Chapter Charters may not be granted to individuals, but rather to locations.</li>
+              <li>Proposed chapter names will be approved by the Director of Local Chapters.</li>
+              <li>Chapters and their members will conform to the National Constitution and By-Laws and to the Chapter Charter.</li>
+              <li>Each chapter will renew their charter annually at a fee to be determined by the IPMS/USA Executive Board. Said fee will be announced to the membership prior to the start of the renewal year.</li>
+              <li>No group may function as an official IPMS/USA Chapter without an official charter, nor may there be any official group affiliation with IPMS/USA except by virtue of a charter granted by IPMS/USA.</li>
+              <li>Failure to comply with any of the above may result in the Chapter Charter being revoked by the Executive Board.</li>
+              </ol>
+	</article>
+	
+	<div class="col-md-3" role="complementary">
+      <nav class="bs-docs-sidebar">
+		  <div id="toc"></div>
+		  <!-- from http://gregfranko.com/jquery.tocify.js/ -->
+      </nav>
+    </div>
+	
+	
+</div>	
+	<script>$(function() {
+                  //Calls the tocify method on your HTML div.
+                  $("#toc").tocify({ selectors: "h2,h3,h4" });
+              });</script>
+<!--/.fluid-container-->
+
+<!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,384 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | Officer Directory and Email</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+  <div class="row">
+    <article class="col-md-12">
+      <h2>Officer Directory and Email</h2>
+      <p class="text-center"><b>IPMS/USA National Office</b><br>
+        PO Box 56023<br>
+St. Petersburg, FL 33732-6023</p>
+      <h3>General Modeling Questions</h3>
+      <ol>
+        <li>If you are a member of IPMS/USA, you can post your question on our Topic-specific <b><a target="_blank"  href="http://forum.ipmsusa3.org">Discussion Forum</a></b>, or you can submit your questions to the <b>IPMS/USA Journal</b> "Wants and Disposals" column. That will reach the entire membership but will take longer.</li>
+        <li>Post your question on one of several modeling sites such as <a href="news:rec.models.scale">r.m.s. (rec.models.scale) newsgroup</a>,<b><a target="_blank" href="http://www.hyperscale.com/"> HyperScale</a></b>, or <b><a target="_blank" href="http://www.modelingmadness.com/">Modeling Madness</a></b>. This is the fastest way to get your question out to the most modelers worldwide. If you have a problem getting the newsgroup, check with your ISP (Internet Service Provider) for help with logging into newsgroups. They are free.</li>
+      </ol>
+      <h3><a target="_blank" href="http://www.ipmsusa2.org/store">Membership/Renewal Application</a></h3>
+      <p>We welcome your messages and consider them essential, but the volume of e-mail is both high and sometimes misdirected. To expedite our response, we need your help getting your message to the right person.<font color="#000080">&nbsp;<u><b>Note</b></u></font> - <b>Please include your IPMS membership number</b>, if you are a member, on all inquires. (Please do not send unsolicited photo or file attachments.) <br>
+        <br>
+        Thanks for your cooperation.</p>
+      <hr/>
+    </article>
+  </div>
+  <div class="row">
+  <div class="col-md-3  col-sm-12">
+    <ul class="nav nav-pills nav-stacked">
+      <li  role="presentation"><a href="#eboard">Executive Board</a></li>
+      <li  role="presentation"><a href="#office">Office Manager</a></li>
+      <li  role="presentation"><a href="#journal">The IPMS/USA Journal </a></li>
+      <li  role="presentation"><a href="#website">Website</a></li>
+    </ul>
+  </div>
+  <article class="col-md-9">
+  <h2 class="text-center">IPMS/USA Officer Directory</h2>
+  <div> <a name="eboard"></a>
+    <h3>IPMS/USA Executive Board</h3>
+    <div class="row">
+      <div class="col-md-12"><img src="/images/officers/Bell_R_small.jpg" width="150" height="145" alt="Ron Bell" class="img-thumbnail">
+        </td>
+        <p><a href="mailto:IPMSPresident@ipmsusa.org">Ron Bell<br>
+          <strong>President</strong></a></p>
+        <p>Executive Board and IPMS/USA Policy questions.<br/><strong>Email:</strong> IPMSPresident@ipmsusa.org</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6"><img src="/images/officers/john_noack_2016.jpg" alt="John Noack" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:ipmsusa1stvp@ipmsusa.org">John Noack<br>
+          <strong>1st Vice President</strong></a></p>
+        <p>All Vendor inquires, product announcements, reviews, etc. All Member comments or questions regarding Manufacturers, the Recon Report, kit reviews published in the Journal, and the Reviewer Corps.<br/><strong>Email:</strong> ipmsusa1stvp@ipmsusa.org</p>
+      </div>
+      <div class="col-md-6"><img src="/images/officers/tjm.jpeg" alt="T.J. Misiolek" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:ipmsusa2ndvp@ipmsusa.org">T.J. Misiolek<br>
+          <strong>Second Vice President</strong></a></p>
+        <p>All National Convention related questions/comments.<br/><strong>Email:</strong> ipmsusa2ndvp@ipmsusa.org</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6"> <img src="/images/officers/DTennant_small.jpg" alt="Dennis Tennant" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:secretaryipms@gmail.com">Dennis Tennant<br>
+          <strong>IPMS/USA Secretary</strong></a></p>
+        <p>General inquiries, and correspondence<br/><strong>Email:</strong> secretaryipms@gmail.com</p>
+      </div>
+      <div class="col-md-6"> <img src="/images/officers/IMG_0258_sm.jpg" alt="Mike Oberholtzer" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a  href="mailto:treasurer@ipmsusa.org?subject=IPMS Treasury Inquiry">Mike Oberholtzer<br>
+          <strong>Treasurer</strong></a></p>
+        <p>IPMS/USA Fiscal Affairs<br/><strong>Email:</strong> treasurer@ipmsusa.org</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6"><img src="/images/officers/lockhart.jpg" alt="David Lockhart" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:DLC@ipmsusa.org">David Lockhart<br>
+          <strong>Director of Local Chapters</strong></a></p>
+        <p>All Chapter related questions and information. Chartering and renewal status, Chapter Contact info and/or updates, etc. All Local and Regional Contest Scheduling related questions and information.<br/><strong>Email:</strong> DLC@ipmsusa.org</p>
+      </div>
+      <div class="col-md-6"><img src="/images/user_generic.gif" alt="Vacant" width="150" height="150" border="0" class="img-thumbnail">
+        <p>Vacant<br>
+          <strong>Director of Foreign Liaison</strong></p>
+        <p> Foreign IPMS Branches/Chapters Liaison. <br>
+          Special Interest Groups (SIG's)</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6"><img src="/images/officers/JRPforWeb_th.jpg" alt="Jim Pearsall" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:IPMS-Q@ipmsusa.org">Jim Pearsall<br>
+          <strong>Historian/Publications Director</strong></a></p>
+        <p>All Questions on our IPMS/USA 
+          Modelers' Journal, IPMS/USA  Publications, etc.<br/><strong>Email:</strong> IPMS-Q@ipmsusa.org</p>
+      </div>
+      <div class="col-md-6"><img src="/images/officers/lasvegas-065-2.jpg" width="150" height="151" border="0" class="img-thumbnail">
+        <p><a href="mailto:recruitment@ipmsusa.org">David Knights<br>
+            <strong>Recruitment and Retention Secretary</strong></a><br>
+            <strong>Email:</strong> recruitment@ipmsusa.org</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+  <div><a name="office"></a>
+    <h3>IPMS/USA Office Manager</h3>
+    <div class="row">
+      <div class="col-md-12"><img src="/images/officers/mary_von_s.jpg" alt="Marie Van Schoonhoven" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:manager@ipmsusa.org">Marie Van Schoonhoven<br/>
+          <strong>National Office Manager</strong></a></p>
+        <p>All <b>Membership</b> questions, changes of address,
+          missing Journal replacement request, etc. Provides maintenance and support for the National Membership Database.<br/><strong>Email:</strong> manager@ipmsusa.org</p>
+      </div>
+    </div>
+  </div>
+  <div><a name="journal"></a>
+    <h3>IPMS/USA Journal</h3>
+    <div class="row">
+      <div class="col-md-6"> <img src="/images/officers/Woody_J_02small.jpg" alt="James Woody" width="141" height="141" border="0" class="img-thumbnail">
+        <p><a href="mailto:jwoody@ipmsusa.org">James Woody</a> <br>
+          <strong>Executive Editor</strong><br/><strong>Email:</strong> jwoody@ipmsusa.org</p>
+      </div>
+      <div class="col-md-6"> <img src="/images/officers/reed_doug_sm.jpg" alt="Doug Reed" width="150" height="150" border="0" class="img-thumbnail">
+        <p><a href="mailto:advertising@ipmsusa.org">Doug Reed</a><br>
+          <strong>Advertising Director</strong><br/><strong>Email:</strong> advertising@ipmsusa.org</p>
+      </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"><img src="/images/officers/Buckholz_C_01small.jpg" alt="Chris Bucholtz" width="141" height="141" border="0" class="img-thumbnail">
+          <p><a  href="mailto:BucholtzC@aol.com">Chris Bucholtz</a><br>
+            <b>Managing Editor</b><br/><strong>Email:</strong> BucholtzC@aol.com</p>
+        </div>
+        <div class="col-md-6"><img src="/images/officers/JohnHeckPhoto.jpg" alt="John Heck" width="141" height="141" border="0" class="img-thumbnail">
+          <p><a href="mailto:artdirector@ipmsusa.org">John Heck</a><br>
+            <b>Art Director </b><br/><strong>Email:</strong> artdirector@ipmsusa.org</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p>The IPMS/USA Journal can accept articles, columns and submissions to chapter happenings. Our preferred format is a Microsoft Word 6.0 file; this can be e-mailed to us at <a  href="mailto:editor@ipmsusa.org">editor@ipmsusa.org</a>, or mailed to us on a CD at: </p>
+          <p>IPMS/USA Journal Submission<br>
+            621 Choctaw Dr.<br>
+            San Jose, CA 95123</p>
+          <p>The criteria for article and picture submissions are printed in the Journal on page four. </p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h3><a name="website"></a> </h3>
+      <h3>IPMS/USA Website</h3>
+      <div class="row">
+        <div class="col-md-6"><img src="/images/officers/aitala.jpg" alt="Eric Aitala" width="150" height="150" border="0" class="img-thumbnail">
+          <p><a href="mailto:webmaster@ipmsusa.org?subject=IPMS/USA%20Webmaster%20Inquiry">Eric Aitala</a><br>
+            <b>Webmaster</b><br/><strong>Email:</strong> webmaster@ipmsusa.org</p>
+        </div>
+        <div class="col-md-6"> <img src="/images/user_generic.gif" alt="No Picture" width="150" height="150" border="0" class="img-thumbnail">
+          <p>Vacant<br>
+            <b>Forum Administrator </b></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"><img src="/images/officers/JRPforWeb_th.jpg" alt="Jom Pearsall" width="150" height="150" class="img-thumbnail">
+          <p>Jim Pearsall<br>
+            <b>Associate Webmaster -
+            Kit &amp; Product Reviews</b> </p>
+        </div>
+        <div class="col-md-6"><img src="/images/officers/wrinkle_th.jpg" alt="David Wrinkle" width="150" height="150" class="img-thumbnail">
+          <p>David Wrinkle <br>
+            <b>Associate Webmaster - </b><b>Kit &amp; Product Reviews</b></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"><img src="/images/officers/asc1.jpg" alt="Mark D. Aldrich" width="150" height="150" class="img-thumbnail">
+          <p><a href="mailto:TacomaIPMS@comcast.net">Mark D. Aldrich</a> <br>
+            <b>Associate Webmaster - Events/Walkarounds</b> &amp; <b> Members Gallery </b><br/><strong>Email:</strong> TacomaIPMS@comcast.net</p>
+        </div>
+        <div class="col-md-6"><img src="/images/officers/Paul_Markezich_sm.jpg" alt="Paul Markezich" width="148" height="148" class="img-thumbnail">
+          <p><a href="mailto:paulmar@ix.netcom.com">Paul Markezich</a><br>
+            <b>Associate Webmaster - <strong>Box Art Gallery </strong></b><br/><strong>Email:</strong> paulmar@ix.netcom.com</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"><img src="/images/officers/jackson_crop.jpg" alt="Rick Jackson" width="150" height="150" class="img-thumbnail">
+          <p>Rick Jackson<br>
+            <b>Associate Webmaster - <strong>Box Art Gallery </strong></b> </p>
+        </div>
+        <div class="col-md-6"><img src="/images/officers/JonE_2013.jpg" alt="Jon Emery" width="135" height="150" class="img-thumbnail">
+          <p><a href="mailto:models4troops@gmail.com">Jon Emery</a> <br>
+            <strong>Support the Troops </strong><br/><strong>Email:</strong> models4troops@gmail.com</p>
+        </div>
+      </div>
+    </div>
+    </article>
+  </div>
+  <!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>

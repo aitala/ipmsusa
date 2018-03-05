@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar-inverse .nav li.dropdown.open > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.active > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle,
+.nav,
+.navbar,
+.navbar-inverse .navbar-inner {
+filter:none!important;
+background-image: none;
+}
+.navbar {
+  position: static;
+}
+.navbar .nav > li {
+  z-index: 1001;
+}

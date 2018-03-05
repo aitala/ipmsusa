@@ -1,0 +1,617 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/bootstrap3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>IPMS/USA | Competition Handbook</title>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-10072279-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+<!-- Le styles -->
+<link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
+<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<style type="text/css">
+.sidebar-nav {
+	padding: 9px 0;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/bootstrap3/js/bootstrap.js"></script>
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="/js/smartmenus/jquery.smartmenus.js"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+    	<script src="/js/html5shiv/html5shiv.min.js"></script>
+    <![endif]-->
+<!--[if (lt IE 9)&(gte IE 6)]>
+		<script src="/js/respond.min.js"></script>
+        <link href="/css/ie87.css" rel="stylesheet">
+	<![endif]-->
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="http://www.ipmsusa.org/IPMSicon1.ico">
+
+<!-- InstanceBeginEditable name="header" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<header  class="container"> 
+  <script> 
+	  var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1},c:2}; 
+	  function $buo_f(){ 
+	   var e = document.createElement("script"); 
+	   e.src = "//browser-update.org/update.js"; 
+	   document.body.appendChild(e);
+	  };
+	  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+	  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+  <div class="col-sm-12 col-md-12 row visible-lg flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01.gif" alt="IPMS Logo" width="108" height="94"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-md flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>International Plastic Modelers' Society / USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-sm flag-background">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-12 row visible-xs">
+    <div class="title">
+      <h1><a href="http://www.ipmsusa.org"><img src="/images/newUSALogo_01xsmall.gif" alt="IPMS Logo" width="65" height="57"></a>IPMS/USA</h1>
+    </div>
+  </div>
+
+</header>
+<div class="container">
+  <nav id="navbar" class="navbar navbar-inverse">
+    <div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/index.shtml">Home</a></div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/index.shtml">About IPMS/USA</a></li>
+              <li><a href="/about/cbl/index.shtml">Constitution and By-Laws</a></li>
+              <li><a href="/executive_board/index.shtml">Officer Directory &amp; Email</a></li>
+              <li><a href="/executive_board/minutes/index.shtml">Executive Board Meeting Minutes</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/region-map">Region Map</a></li>
+              <li><a href="http://calendar.ipmsusa3.org/chapter-map">Chapter Map</a></li>
+              <li><a href="/national_contest_committee/index.shtml">National Contest Committee</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News &amp; Events <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://news.ipmsusa3.org">News <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+              	  <li><a href="http://news.ipmsusa3.org/node/add/article">Submit News</a></li>
+                </ul>
+              </li>
+              <li><a href="http://calendar.ipmsusa3.org/">Events <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://calendar.ipmsusa3.org/all-events">All Events</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/event-map">Event Map</a></li>
+                  <li><a href="http://calendar.ipmsusa3.org/node/add/event">Add an Event</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Members <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+			  <li><a href="/member_services/achievement_awards">Achievement Awards</a></li>
+			  <li><a href="http://members.ipmsusa3.org/book/adult-building-course">Adult Building Course</a></li>
+              <li><a href="http://members.ipmsusa3.org/journal_index">Journal Index <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://members.ipmsusa3.org/journal-article-index">Journal Article Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/quarterly/ipmsusa-quarterly-index">Quarterly Index</a></li>
+                  <li><a href="http://members.ipmsusa3.org/updates/ipmsusa-updates-index">Updates Index</a></li>
+                </ul>
+              </li>
+              <li><a href="http://members.ipmsusa3.org/hobby-stores">Local Hobby Stores <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+              		<li><a href="http://members.ipmsusa3.org/node/add/hobby-store">Add a Store</a></li>
+              	</ul>
+              </li>
+              <li><a href="http://web.ipmsusa3.org/sigs" target="_blank">Special Interest Groups</a></li>
+              <li><a href="/special_features">Special Features <b class="caret"></b></a>
+              	<ul class="dropdown-menu">
+                	<li><a href="http://members.ipmsusa3.org/50th-anniversary-awards">50th Anniversary Awards</a></li>
+                    <li><a href="http://members.ipmsusa3.org/50th-anniversary-gallery">50th Anniversary Gallery</a></li>
+                </ul>
+              </li>
+              <li><a href="/member_services/index.shtml">Information &amp; Services <b class="caret"></b></a>
+               	<ul class="dropdown-menu">
+              		<li><a href="/member_services/forms.shtml">Forms</a></li>
+              		<li><a href="http://members.ipmsusa3.org/form/change-address">Change of Address Form</a></li>
+              	</ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/support_the_troops/index.shtml">Supporting the Troops</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">IPMS/USA Websites <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://forum.ipmsusa3.org/" target="_blank">Forums</a></li>
+              <li><a href="http://web.ipmsusa3.org/" target="_blank">Reviews</a></li>
+              <li><a href="http://www.shopipmsusa.org" target="_blank">Store <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.ipms.deco-apparel.com" target="_blank">Merchandise</a></li>
+                </ul>
+              </li>
+              <li><a href="https://gallery.ipmsusa3.org/" target="_blank">Gallery <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://www.flickr.com/photos/93469484@N03/collections/" target="_blank">Gallery Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="http://forum.ipmsusa3.org" target="_blank">Forums</a></li>
+          <li><a href="http://www.shopipmsusa.org/category-s/100.htm" target="_blank">Join IPMS/USA</a></li>
+          
+          <li><a href="/search.html"><div class="glyphicon glyphicon-search"  aria-hidden="true"><span class="sr-only">Search</span></div></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- /navbar-example --> 
+</div>
+<section class="container"><!-- InstanceBeginEditable name="content" -->
+  <div class="row">
+    <article class="col-md-12">
+      <h2><a name="home"></a>IPMS/USA Competition Handbook 
+        <!--Logo--> </h2>
+      <h3>Introduction</h3>
+      <p>Each year's IPMS/USA National Convention plays host to a National model competition. Responsibility for providing the rules, categories, and judges for that competition rests with the Society's National Executive Board. The Board has delegated this responsibility to a National Contest Committee, the membership of which comprises the competition chief judges and the head judges for each of the individual Classes. One member of the Committee also serves as its chairman.<br>
+      </p>
+      <p>Many years ago, the Contest Committee produced a Judges' Handbook to provide guidance on both the principles and the mechanics of IPMS/USA's judging process. When faced recently with the need to reprint the handbook, the Committee decided instead to expand the book into a Competition Handbook and make it available to the entire membership through the Society's Web page. In so doing, the Committee hopes to give everyone access not only to the information formerly contained in the Judges' Handbook, but also to thoughts, clarifications, explanations, hints, etc. that we hope will help answer questions, clear up confusion, and generally make the model competition more understandable and enjoyable for everyone.</p>
+      <h3><a name="handbook"></a>The Handbook</h3>
+      <p>This handbook is designed for the use of modelers everywhere, competitors and non-competitors alike. For competitors, it outlines the basic principles that guide IPMS model contests. For judges, it outlines the standards and objectives that make for fair, effective, and efficient competitions. For all modelers, it is a single best reference on how to look at models objectively: to know what to look for, to know what others are looking for, and to learn how to set personal standards of satisfaction and accomplishment.<br>
+      </p>
+      <p>IPMS has been accused regularly, and wrongly, of overemphasizing contests and of being defined by competition. That is not the purpose of our Society. Our purpose is to promote the hobby of scale model building, a hobby of individual achievement and significant artistic content. Having built our models, we take great pleasure in displaying them to fellow modelers and to anyone else who might appreciate our work. We meet to do that in each other's homes; at regular meetings; at displays arranged in schools, malls, and shops; and at local, regional, and national conventions. It is only natural that such displays also include a measure of competition as we seek feedback and acknowledgment of our developing skills. Not everyone wants to compete, however, and competition should never be a prerequisite of IPMS membership, participation, or satisfaction.<br>
+      </p>
+      <p>For those who do want to compete, the National Contest Committee wants to provide the best contest possible. And we do encourage modelers to enter our competitions, because when properly conducted, they are one of the best ways to improve everyone's modeling skills. Actually participating as a judge, which forces a modeler to look at models in a new and objective fashion, has been declared almost unanimously to be the single best way to become a better modeler. These, then, are the objectives of this handbook. Whether you are a judge or not, whether you enter contests or not, this handbook can help you recognize some basic, objective truths about models and modeling. It is a living document that we will maintain on the IPMS/USA web page, so let the Contest Committee know what you think about it. We'll update it at intervals, and your input is welcome.</p>
+      <h3><a name="competition"></a>The Competition</h3>
+      <p>The IPMS contest, at whatever level, must be guided by the proposition that every modeler's work is a creative work of art. No, not quite the same as a great painting or a famous musical composition, but art nonetheless. Pieces of plastic (and now other stuff too) are assembled, painted, and finished, producing a result in which the builder can take pride. Measuring those products one against the other is not intended to &quot;slam&quot; one at the expense of the other. Moreover, we rank order just the models that are entered in any given contest. That's why there is no &quot;National Standard.&quot; The best model in any category or contest is just that--no more, no less. You may have others at home that are better, or you may have seen better elsewhere, but none of that matters. We're looking at only what's present on the contest table, and the final result of the judging says only that, of the models entered in this particular category on this particular day, this one's better than that one.<br>
+      </p>
+      <p>Better? What do we mean? Because we're rating works of art, the products of a modeler's skills developed over years, we've got to remember that the results are strictly subjective. That's why we don't use scoring sheets. There are no numbers in the universe that will allow anyone to say with assurance that an unfinished seam on that model is worth &quot;x&quot; points, while a silvered decal on that model is worth &quot;y&quot; points. Remember, every contest is entirely different from any other because the models are different. No &quot;National Standard&quot; is being applied for the judges to measure against. If there were any way to really do that, then perhaps we could use some kind of numerical scheme. But there isn't, and that's a fact. Numbers are often used to create the appearance of objectivity, when in fact their assignment is essentially subjective. So we don't use them. All we can do is look at the whole model and try to determine how well the modeler did in bringing his project to completion.<br>
+      </p>
+      <p>IPMS accomplishes this ranking--our judging--by using three-person teams. We aim for three, or another odd number, to avoid ties in the rare instances when the team's decisions are not unanimous. In addition, we try to have each team made up of judges from different sections of the country. We do that so that we can avoid even the appearance of impropriety such as two pals from one chapter giving a friend an award. The truth is, however, that we have almost never seen anything like that happen at a major contest. We watch very carefully for that, and we are very quick to dismiss judges for even minor infringement of the standards of integrity that we'll outline later. There is another reason for using judges from different areas. It is to avoid any category being skewed by a local fad or prejudice. In one area, for example, it may have become quite the rage to heavily weather or shadow-paint a model. In another area, the current fashion might be sparkling new finishes. Is one of these &quot;right&quot; and the other &quot;wrong&quot;? Of course not, and we don't want the contest results skewed by these kinds of evolving fashions.<br>
+      </p>
+      <p>Which leads to the basic criteria for judging models: &quot;The Basics.&quot; We'll outline what those basics are for each of the modeling classes that make up a full IPMS contest. Because they're basics, they are similar and related across the classes, as you will see below.<br>
+      </p>
+      <p>The IPMS Contest is a challenging effort to bring many different kinds of models and modelers together in a single competition and convention. It's not just for aircraft, or cars, or any other single kind of modeling. So we've tried to evolve a set of rules and standards that enable us to have a contest that's consistent across this broad range of classes, skills, and interests. That's not always so easy to do, and it may put us at odds with judging techniques, categories, and rules established by clubs and societies that are focused strictly on only one kind of model. We can live with that because it allows us to maintain the broadest and most integrated modeling society in the world.</p>
+      <h3><a name="qualifications"></a>Qualifications for IPMS/USA National Contest Judges </h3>
+      <p>Judges for the IPMS/USA National Contest held in conjunction with the annual IPMS/USA National Convention <b><i>must</i></b> be scale modelers who hold a current, <b><i>Adult</i></b> membership in the International Plastic Modelers Society.<br>
+      </p>
+      <p>Prospective new judges will serve their first year in an OJT (on-the-job-training) status, working with a team of experienced National judges. If at all possible, those wishing to become National judges should have first gained judging experience at lower-level IPMS events such as Regional Conventions, Invitationals, one-day shows, etc.</p>
+      <h3><a name="requirements"></a>Requirements for  IPMS/USA National Judges</h3>
+      <p>There is one overriding requirement for IPMS/USA National judges, and that requirement is: <b><i>INTEGRITY</i></b>. Integrity is absolutely vital to the judging task. The National Contest Committee requires integrity from every National judge, and it has a zero-tolerance policy toward those who violate that requirement. Judges have been, and will continue to be, removed from the National judging ranks for proven breaches of integrity. The following are some examples of how we protect the integrity of the contest:<br>
+      </p>
+      <ol>
+        <li>All judging is impartial. In the Contest Room, judges have no friends and no enemies. Knowledge of who built a particular model must not influence the outcome of the judging.</li>
+        <li>A judge will never judge his own work, nor will he attempt to influence other judges who are evaluating his work.</li>
+        <li>All judging is done using the same set of rules and applying the same criteria to every model in the room.</li>
+        <li>From the time that judging begins, <b><i>and until the conclusion of the awards ceremony,</i></b> judges will not disclose the outcome of any portion of the contest to anyone who did not participate in the judging.</li>
+        <li>During the judging process, judges will point out and discuss a model's pros and cons, but will do so in a way that is not disparaging to either the model or its builder.</li>
+        <li>If a judge's model has been nominated for a special award, the judge must not participate in the voting for that award.<br>
+      </ol>
+      <p>The foregoing are examples, not an all-inclusive list, of what constitutes judging integrity. While the standard is strict, judges can meet it easily by using basic common sense and by continuously applying the judges' Golden Rule: Judge the work of others in exactly the same way you would want others to judge your own work.<br>
+      </p>
+      <h4>Other Requirements for Judges<br>
+      </h4>
+      <h5><i>Attendance:</i></h5>
+      <p>We've developed minimum experience and currency requirements for our judges. After serving his first year as an OJT, a judge will be expected to participate as a judge in at least one National Contest every five years. Failure to meet that currency requirement means that a judge has to attend an OJT briefing session at his next convention in order to requalify and be considered eligible to judge at that convention.<br>
+      </p>
+      <h5><i>Education</i>:</h5>
+      <p>Experienced judges will help train any OJT judges assigned to work with them. In the process, they will also evaluate the OJT's suitability to become a National judge and report any problems to their Class Head Judge or the Chief Judge. Additionally, judges should count on spending some of their time working with modelers who would like critiques of their models. We've added the judges' names to the category cards on the tables so that modelers who would like a critique on Saturday (after the judging has been completed) can identify and approach a judge for information. Judges will not--repeat <b>NOT</b>--compare one modeler's work with another's, nor will they unfairly criticize. The experience is intended to be positive and helpful, and this requires judges to have an ability to explain their approach and conclusions to concerned modelers.</p>
+      <h3><a name="aspects"></a>Specific Aspects of Judging</h3>
+      <p>Once judging has begun, judges will remain in the contest room, except for short breaks. Head Judges for each of the major Classes (Automotive, Ships, Armor, etc.) will form judging teams. After these teams have completed all the assignments given to them by their Class Head Judges, they should check with the Chief Judge for assignments in categories not yet judged.<br>
+      </p>
+      <p>Judging of individual categories is usually done via a series of &quot;cuts&quot; to determine the best models present. The first cut will eliminate any entries with obvious flaws, and succeeding cuts will continue to narrow the field until the winners have been decided.<br>
+      </p>
+      <p>Throughout the judging process, the first and most important things for judges to consider are the <b><i>basics</i></b>. Typically, the judges' first cut will identify models that exhibit flaws in basic construction and finishing such as open seams or gaps, misaligned parts, glue marks, or poorly applied paint. Often, it is this ranking of the models on the basics that will determine the final outcome in the category being judged. Only when these basics don't allow for a clear-cut ranking do the judges begin to look deeper. (The next sections cover &quot;the basics&quot; for each of the major classes in IPMS competition.)<br>
+      </p>
+      <p>Beyond the basics, another tremendously important consideration is <b><i>consistency</i></b>. A model should exhibit the same standard of building throughout. Thus, an aircraft model in which the builder has superdetailed the cockpit but not the wheel wells would lack a consistent level of detail.<br>
+      </p>
+      <p>Models are three-dimensional, scale representations of three-dimensional, full-size articles. For that reason, models will be judged in three dimensions. Because the bottom of the model is just as important as the top, judges will handle models to the degree required to judge the entire model consistently.<br>
+      </p>
+      <p>&quot;Weathering&quot; is inherently neither good nor bad. When comparing a model with a weathered finish to a model with a pristine finish, the judges will concern themselves with the degree of success achieved by each builder in depicting the intended finish.</p>
+      <h3><a name="modeling basics"></a>Modeling Basics</h3>
+      <h4><a name="aircraft"></a>Aircraft</h4>
+      <h5><i>Basic Construction </i></h5>
+      <ol>
+        <li>Flash, mold seams, sink marks, copyright marks, ejector-pin marks, and similar molding flaws eliminated.</li>
+        <li>Seams filled if not present on the actual aircraft.</li>
+        <li>Contour errors corrected.</li>
+        <li>Any detailing removed while correcting errors, filling seams, etc. restored to a level consistent with the rest of the model.</li>
+        <li>Alignment</li>
+        <ol TYPE=A>
+          <li>Wings/tailplanes: same dihedral or anhedral on both sides.
+          <li> Plan view: wings and stabilizers aligned correctly with, and identically on both sides of, centerline.
+          <li>Multiple fins/rudders: fin-to-stabilizer angles correct; aligned with each other in front and side views where appropriate.
+          <li> Engine nacelles/cowlings: lined up correctly in front, side, and plan views.
+          <li> Landing gear: components properly aligned with airframe and with each other in front, side, and plan views.
+          <li> Ordnance items (bombs, rockets, pylons, etc.) aligned correctly with aircraft and with each other.</li>
+        </ol>
+        <li>Canopies and other clear areas:</li>
+        <ol TYPE=A>
+          <li>Clear and free of crazing caused by adhesives or finishing coats.
+          <li> Gaps between windscreen, canopy, or other clear parts eliminated where applicable.
+          <li> All clear areas scratch-, blemish-, and paint-free.</li>
+        </ol>
+        <li>Decals must look painted on if depicting painted markings (conforming to surface contours, no silvering or bubbling, no decal film apparent).<br>
+      </ol>
+      <h5><i>Details </i></h5>
+      <ol>
+        <li>Thick parts should be thinned to scale or replaced; e.g., wing trailing edges and similar surfaces, ordnance fins, landing gear doors, edges of open panels, etc.</li>
+        <li>Wheel wells, intakes, scoops, etc. should be blocked off to prevent a &quot;see-through&quot; effect.</li>
+        <li>Gun barrels, exhaust stacks, intakes, vents, and similar openings should be opened.</li>
+        <li>Details added to the model should be in scale or as close to scale as possible.</li>
+        <li>External stores should be built to the same level of quality as the model to which they are attached. Stores/weapons combinations on a model should represent only those combinations actually carried by the real aircraft.</li>
+        <li>Aftermarket parts (photo-etched, white metal, resin, etc.) should integrate well with the basic model. Photo-etched parts that require forming should be precisely shaped and any surfaces that require building up to a thicker cross-section should be smooth and uniform.<br>
+      </ol>
+      <h5><i>Painting and Finishing </i></h5>
+      <ol>
+        <li>The model's surface, once painted, should show no signs of the construction process (glue, file, or sanding marks; fingerprints; obvious discontinuities between kit plastic and filler materials; etc.).</li>
+        <li>Finish should be even and smooth. If irregularities in the actual aircraft's finish are being duplicated, documentation of such irregularities is required.</li>
+        <ol TYPE=A>
+          <li>No brush marks, lint, brush hairs, etc.
+          <li> No &quot;orange-peel&quot; or &quot;eggshell&quot; effect; no &quot;powdering&quot; in areas such as fillets or wing roots.
+          <li> No random differences in sheen of finish caused by misapplication of final clear coats.</li>
+        </ol>
+        <li>Paint edges that are supposed to be sharp should be sharp (no ragged edges caused by poor masking). Edges that are supposed to be soft or feathered should be in scale and without overspray.<br>
+        <li>Framing on clear parts should have crisp, uniform edges.</li>
+        <li>Weathering, if present, should show concern for scale (e.g., size of chipped areas), be in accordance with the conditions in which the real aircraft was operating, and be consistent throughout the model (a factory-fresh interior would be unlikely on a 100-mission aircraft).</li>
+        <li>Decals:</li>
+        <ol TYPE=A>
+          <li>Aligned properly. (If the real aircraft had a markings anomaly; e.g., an inverted U.S. insignia, the model builder should provide documentation to show that he is deliberately duplicating someone else's error, not inadvertently making one of his own.)
+          <li> Some modern aircraft use decals rather than paint for standard markings. If the real aircraft suffers from problems with decal application, such anomalies should be documented if duplicated on the model.</li>
+        </ol>
+        <li>Colors. Paint colors, even from the same manufacturer and mixed to the same specs, can vary from batch to batch. Different operating environments can change colors in different ways. All paints fade from the effects of weather and sunlight, and viewing distance alone can change the look of virtually any color. Poor initial application and subsequent maintenance compound these problems. Therefore, aside from gross inaccuracies such as a light green &quot;Red Arrows&quot; aircraft, color shades should not be used to determine a model's accuracy or lack thereof. Again, models with unusual colors should be supported by confirming documentation.<br>
+      </ol>
+      <h4><a name="armor"></a>Armor/Military Vehicles</h4>
+      <h5><i>Basic Construction</i></h5>
+      <ol>
+        <li>Flash, sink marks, mold marks, ejector-pin marks, provisions for motorization eliminated.<br>
+        <li>Seams filled where applicable, especially on cylindrical parts such as gun barrels, wheels, and auxiliary equipment.<br>
+        <li>Contour errors corrected.</li>
+        <li>Gaps between upper and lower hulls blanked off to prevent a &quot;see-through&quot; effect.</li>
+        <li>Gap/overlap at point where track ends join eliminated.</li>
+        <li>Machine guns, main guns, exhausts, vents, etc. drilled out/opened up.</li>
+        <li>Cylindrical cross-section of gun barrels maintained.</li>
+        <li>Track pattern (cleats) facing in the proper direction on both sides of vehicle.</li>
+        <li>Alignment:</li>
+        <ol TYPE=A>
+          <li>Road wheels on tracked vehicles (along with idler, drive, and return rollers, if any) at the same distance from the lower chassis centerline.
+          <li> Road wheels sitting flush on the track.
+          <li> Tracks vertical (not leaning in or out when viewed from the front or back of the vehicle) and parallel (not toed in or out when viewed from top of vehicle).
+          <li> All wheels/tracks sitting firmly on the ground.
+          <li> Vehicle components square and aligned.
+          <li> Gun(s) (on most turreted vehicles) parallel to turret centerline when viewed from above.
+          <li> Items positioned symmetrically on actual vehicle (e.g., headlights and guards, fenders, mud flaps, etc.) positioned symmetrically on model, unless represented as damaged.<br>
+        </ol>
+      </ol>
+      <h5><i>Details</i></h5>
+      <ol>
+        <li>Parts that are thick, over-scale, or coarse should be thinned, modified, or replaced.</li>
+        <li>Weld marks should be simulated where applicable.</li>
+        <li>Extra parts should be added if practical, with references used to confirm their existence on the actual vehicle. Such parts should be as close to scale as possible.</li>
+        <ol type="A">
+          <li>Add (especially on conversion or scratch-built models) the small detail parts (rivets, nuts and bolts, etc.) usually found in standard injection-molded kits.
+          <li> Add tarps, bedrolls, chains, fuel cans, etc., but be sure to also add some method by which such items are attached to the vehicle (hook, rope, tie down). Jerrycans are not attached to real tanks with superglue.
+          <li> Aftermarket parts (photo-etched, white metal, resin, etc.) should integrate well with the basic model. Photo-etched parts that require forming should be precisely shaped, and any surfaces that require building up to a thicker cross-section should be smooth and uniform.</li>
+        </ol>
+        <li>Molded-on parts such as axes and shovels should be undercut or removed completely and replaced. This is especially true of molded screen, which should be replaced with real screen.<br>
+        <li>Track &quot;sag&quot; on tracked vehicles should be duplicated where appropriate.</li>
+        <li>Windshield wipers should be added where appropriate.</li>
+        <li>Headlights and tail lights should be drilled out and have lenses added.</li>
+        <li>Cable and electrical lines should be added to lights and smoke dischargers.</li>
+        <li>Valve stems should be added to tires.</li>
+        <li>Instrument faces on dashboards should have detail picked out and lenses added.</li>
+        <li>Gas and brake pedals should be added to open-wheeled vehicles.</li>
+        <li>Road wheel interiors should be detailed (this is especially necessary on the Hetzer).</li>
+        <li>Molded grab handles and hatch levers should be replaced with wire or stretched sprue.</li>
+        <li>Underside of model, if viewable, should be given the same attention to detail as the top; e.g., motor holes filled, paint applied, weathering on the inside of the road wheels consistent with that on the outside. If the vehicle being modeled was weathered, normal wear and tear to the bottom of the hull from riding over the usual rocks, brush, and other obstacles should be visible on the model.<br>
+      </ol>
+      <h5><i>Painting and finishing</i></h5>
+      <ol>
+        <li>The model's surface, once painted, should show no signs of the construction process (glue, file, or sanding marks; fingerprints; obvious discontinuities between kit plastic and filler materials; etc.).</li>
+        <li>Finish should be even and smooth, unless irregularities in the actual vehicle's finish are being duplicated. Exceptions such as zimmerit or non-slip surfaces should be documented.</li>
+        <ol TYPE=A>
+          <li>No brush marks, lint, brush hairs, etc.
+          <li> No &quot;orange-peel&quot; or &quot;eggshell&quot; effect; no &quot;powdering&quot; in recessed areas.
+          <li> No random differences in sheen of finish caused by misapplication of final clear coats.</li>
+        </ol>
+        <li>Paint edges that are supposed to be sharp should be sharp (no ragged edges caused by poor masking). Edges that are supposed to be soft or feathered should be in scale and without overspray.</li>
+        <li>Weathering, if present, should show concern for scale (e.g., size of chipped areas), be consistent throughout the model, and be in accordance with the conditions in which the real vehicle was operating. Be careful to distinguish some of the purposely &quot;heavy-handed&quot; paint schemes from over-zealous weathering. Extreme examples should be documented. Weathering should not be used to attempt to hide flaws in construction or finishing.</li>
+        <li>Decals:</li>
+        <ol TYPE=A>
+          <li>Aligned properly. (If the real vehicle had a markings anomaly, the modeler should provide documentation to show that he is deliberately duplicating someone else's error, not inadvertently making one of his own.)
+          <li> No silvering or bubbling of decal film. Decal film should be eliminated or hidden to make the markings appear painted on.</li>
+        </ol>
+        <li>Colors: Paint colors, even from the same manufacturer and mixed to the same specs, can vary from batch to batch. Different operating environments can change colors in different ways. All paints fade from the effects of weather and sunlight, and viewing distance alone can change the look of virtually any color.  Poor initial application and subsequent maintenance compound these problems. Therefore, color shade should not be used to determine a model' s accuracy. Models with unusual colors or color schemes should be accompanied by documentation.<br>
+      </ol>
+      <h4><a name="automotive"></a>Automotive</h4>
+      <h5><i>Basic Construction</i></h5>
+      <ol>
+        <li>Flash, sink marks, mold marks, ejector-pin marks, and similar molding flaws eliminated.</li>
+        <li>Seams filled if not found on the actual vehicle. (This is especially important on the car's body. Rubberized kit tires usually also have a mold seam that must be removed.)</li>
+        <li>Contour errors corrected.</li>
+        <li>Gaps between body and chassis eliminated as applicable.</li>
+        <li>Detailing removed while accomplishing the above steps restored to a level consistent with the rest of the model.</li>
+        <li>Alignment:</li>
+        <ol TYPE=A>
+          <li>Where applicable, external items (e.g., mirrors, exhaust pipes) aligned symmetrically.
+          <li> Internal items (e.g., seats, some engine/drive components) aligned properly.
+          <li> Wheels: All wheels touching the ground and aligned properly when viewed from front or rear of the vehicle. If turned, front wheels should be aligned in the same direction<br>
+        </ol>
+        <li>Windshields and other clear areas: </li>
+        <ol TYPE=A>
+          <li>Clear and free of crazing caused by adhesives or finishing coats.
+          <li> Gaps between windshield, windows, or other clear parts eliminated where applicable.
+          <li> All clear areas scratch-, blemish-, and paint-free.<br>
+        </ol>
+      </ol>
+      <h5><i>Detailing</i></h5>
+      <ol>
+        <li>Parts that are thick, over-scale, or coarse should be thinned, modified, or replaced.</li>
+        <li>Exhausts, intakes, vents, and other objects that have openings should be opened.</li>
+        <li>Additional detailing added to the vehicle should be as close to scale as possible. Such items could include door-lock buttons, tire valve stems, dashboard gauge detail, fabric surfaces on interior components, etc. Aftermarket parts (photo-etched, white metal, resin, etc.) should integrate well with the basic model. Photo-etched parts that require forming should be precisely shaped, and any surfaces that require building up to a thicker cross-section should be smooth and uniform.</li>
+        <li>Engine and chassis detailing should be done to a level consistent with detailing on the rest of the model.</li>
+        <li>Working parts, if any (e.g., opening hoods or doors), should match the level of workmanship on the rest of the model. Such parts should operate realistically, and the operating mechanism(s) should be in scale if visible.<br>
+      </ol>
+      <h5><i>Painting and finishing</i></h5>
+      <ol>
+        <li>The model's surface, once painted, should show no signs of the construction process (glue, file, or sanding marks; fingerprints; obvious discontinuities between kit plastic and filler materials; etc.).</li>
+        <li>Finish should be even and smooth, unless irregularities in the actual vehicle's finish are being duplicated. Such irregularities should be documented.</li>
+        <ol TYPE=A>
+          <li>No brush marks, lint, brush hairs, etc.
+          <li> No &quot;orange-peel&quot; or &quot;eggshell&quot; effect; no &quot;powdering&quot; in recessed areas.
+          <li> No random differences in sheen of finish caused by misapplication of final clear coats.</li>
+        </ol>
+        <li>Paint edges that are supposed to be sharp should be sharp (no ragged edges caused by poor masking). Edges that are supposed to be soft or feathered should be in scale and without overspray.</li>
+        <li>Chrome parts should be correctly represented and should be just as free of surface blemishes and evidences of the construction process as the painted components.</li>
+        <li>Weathering: Although weathering is gaining more acceptance in the automotive ranks, especially with some trucks and certain types of racing cars (such as the Rally types), it is not standard practice. Most auto modelers build what is considered a &quot;show&quot; car or restored car, and because of this, weathering will be the exception rather than the rule. If present, however, weathering should show concern for scale, be in accordance with the conditions in which the real vehicle was operating, and be consistent throughout the model.</li>
+        <li>Decals:</li>
+        <ol TYPE=A>
+          <li>Decals should be aligned properly. This is especially important for racing subjects.
+          <li> Water-slide decals should show no evidence of silvering or bubbling of decal film. Decal film should be eliminated or hidden to make the markings appear painted on.<br>
+        </ol>
+      </ol>
+      <h4><a name="ships"></a>Ships</h4>
+      <h5><i>Basic Construction<br>
+        </i></h5>
+      <ol>
+        <li>Flash, mold seams, sink marks, ejector-pin marks, and similar molding flaws eliminated.</li>
+        <li>Seams filled.</li>
+        <li>Contour errors corrected.</li>
+        <li>Ship configuration correct for the time period being depicted by the model.</li>
+        <li>Alignment:</li>
+        <ol TYPE=A>
+          <li>Superstructure components (platforms, cabins, funnels, etc.) aligned with the vertical when viewed from stem to stern.
+          <li> Masts parallel to the vertical axis of the ship when viewed from stem to stern. Rake of masts uniform, unless the real vessel's masts had varying rake angles. Rigging tension must not cause the masts and spars to bend.</li>
+        </ol>
+        <li>Cylindrical cross-section of gun barrels and masts (if applicable) maintained.</li>
+        <li>Glue marks removed.<br>
+      </ol>
+      <h5><em>Detailing </em></h5>
+      <ol>
+        <li>All small parts (including masts, bulwarks, splinter shields, railings, and rigging) should be as close to scale as possible.</li>
+        <li>Small details sanded off during construction should be replaced with scratch-built or aftermarket material.</li>
+        <li>Gun barrels and vents should be drilled out whenever possible.</li>
+        <li>Sailing ship rigging and lines should be correct for the era being modeled.</li>
+        <li>Deadeyes should be rightside-up, and rigging lines and blocks should be in proportion to each other.</li>
+        <li>Photo-etched parts:</li>
+        <ol TYPE=A>
+          <li>Nubs and burrs where parts are removed from sprue must be eliminated.
+          <li> Parts should not be unintentionally damaged or bent.
+          <li> Glue marks and buildups should not show.
+          <li>Parts (e.g., rails and stanchions) must not overlap.
+          <li>All railings should be straight when viewing the model bow to stern (no wavy railings).
+          <li>Railings must line up horizontally and vertically where they join.
+          <li> Corner seams created when parts are bent to shape should be filled.
+          <li> Paint should cover brass completely, including areas at bends and cuts.<br>
+        </ol>
+      </ol>
+      <h5><em>Painting and Finishing </em></h5>
+      <ol>
+        <li>Paint should have a matt finish, unless a different sheen is being used to create a special effect.</li>
+        <li>Paint should be even and smooth, exhibiting no brush marks or &quot;orange-peel&quot; effect.</li>
+        <li>Color schemes should be correct for the era being modeled.</li>
+        <li>Decals:</li>
+        <ol TYPE=A>
+          <li>Aligned properly. Unusual markings or markings placement must be documented.
+          <li> No silvering or bubbling of decal film. Decal film should be eliminated or hidden to make the markings appear painted on.</li>
+        </ol>
+        <li>Weathering should be kept to a minimum because of the small scales involved.<br>
+      </ol>
+      <h4><a name="figures"></a>Figures</h4>
+      <p>The underlying premise of a miniature is that it should look like a small version of a real person. The closer the figure comes to that goal, the better the figure will appear to the judges.<br>
+      </p>
+      <h5><em>Basic Construction</em></h5>
+      <ol>
+        <li>Flash, mold seams, sink marks, and similar molding flaws eliminated.</li>
+        <li>Mold seams removed.</li>
+        <li>Construction seams filled in where appropriate (e.g., where arms meet shoulders, legs meet boots, etc.) and creases that cross these seams restored.</li>
+        <li>Equipment properly attached, e.g., holsters not hanging in space, canteens attached to belts.</li>
+        <li>Straps hanging properly. Rifle slings, horse harnesses, etc. hanging/sagging properly to depict their weight.</li>
+        <li>Feet touching the ground/surface properly.<br>
+      </ol>
+      <h5><em>Detailing</em></h5>
+      <ol>
+        <li>Straps should have proper thickness.</li>
+        <li>Gun barrels should be drilled/hollowed out.</li>
+        <li>Accessories and equipment should be in proper scale for the figure.</li>
+        <li>Ground bases should show footprints.</li>
+        <li>Foliage should harmonize with the figure (e.g., no flowers present when figure is in winter clothes).</li>
+        <li>Lapels and collars should be slightly raised whenever possible.</li>
+        <li>Slings should be added to weapons where necessary.<br>
+      </ol>
+      <h5><em>Painting and Finishing </em></h5>
+      <ol>
+        <li>Cloth should have the proper sheen, e.g., a matt finish for wool.</li>
+        <li>Leather should have a slight sheen except for dress shoes and polished belts.</li>
+        <li>Finish should have an even texture. Brush marks should not be present.</li>
+        <li>Dry-brushing should not be apparent as such.</li>
+        <li>Blending of highlighted and shaded areas with the basic color should be smooth, gradual, and subtle. No demarcation lines should show.</li>
+        <li>Shadows should be present when two surfaces meet (e.g., belts over tunics) and on undersurfaces (e.g., between legs and under arms).</li>
+        <li>White should not be used in eyes in order to avoid a pop-eyed look.</li>
+        <li>Eyes should be symmetrical; figure should not be wall-eyed or cross-eyed.</li>
+        <li>Figures shown on ground should have feet/footwear slightly indented in the earth to depict weight.</li>
+        <li>Weathering of feet or shoes, if depicted, should be appropriate to the ground cover.</li>
+        <li>Equipment being worn by, or slung on, the figure should be given an appearance of weight, e.g., by indenting straps slightly into the shoulder.</li>
+        <li>Headgear shadows should show on the figure's face.</li>
+        <li>Equipment such as swords should have a shadow shown on the figure.</li>
+        <li>Flesh tones should reflect the climate in which the figure is depicted.<br>
+      </ol>
+      <p><b><i>Note:</i></b> Additional equipment such as a desk, bar, etc. will not be judged unless such equipment is included with the original figure casting/kit.<br>
+      </p>
+      <h4><a name="space"></a>Space and Science Fiction<br>
+      </h4>
+      <p>Space and Science Fiction models depict a wide variety of subjects, from real vehicles to complete flights of fancy. In so doing, they run the gamut from sleek &quot;rocket ships&quot; to boxy satellites, from robots to alien armored vehicles. Models of actual spacecraft are typically judged much like aircraft or vehicle models. The incredible range of science fiction subjects, however, would seem at first glance to defy any attempt at systematic judging. Yet even a model that represents a builder's total flight of fancy can still be judged on the basis of basic scale modeling skills.<br>
+      </p>
+      <h5><em>Basic Construction </em></h5>
+      <ol>
+        <li>Flash, mold seams, sink marks, copyright marks, ejector-pin marks, and similar molding flaws eliminated.</li>
+        <li>Seams filled if not present on the actual prototype. If depicting a subject with visible seams, such detail should be uniform and to scale throughout the model.</li>
+        <li>Detailing removed while correcting errors, filling seams, etc. restored to a level consistent with the rest of the model.</li>
+        <li>Alignment:</li>
+        <ol TYPE=A>
+          <li>Wings, fins, pods, etc., have same dihedral or anhedral on both sides and, when viewed from various angles, line up properly with the vehicle centerline.
+          <li> Landing/running gear components properly aligned with vehicle and with each other in front, side, and plan views.
+          <li> Ordnance items (laser cannon, photon-torpedo tubes, etc.) aligned correctly with vehicle and with each other.</li>
+        </ol>
+        <li>Canopies and other clear areas:</li>
+        <ol TYPE=A>
+          <li>Clear and free of crazing caused by adhesives or finishing coats.
+          <li> Gaps between windscreen, canopy, or other clear parts eliminated where applicable.
+          <li> All clear areas scratch-, blemish-, and paint-free.<br>
+        </ol>
+      </ol>
+      <h5><em>Details</em></h5>
+      <ol>
+        <li>Overly thick parts should be thinned to scale or replaced. This is especially true of the antennas supplied with many kits. Kit versions often appear too &quot;fat&quot; and lack detail.</li>
+        <li>Scoops and other such openings should be blocked off to prevent a &quot;see-through&quot; effect.</li>
+        <li>Weapon barrels, exhausts, intakes, vents, small thrusters, steering rockets, etc. should be drilled or opened.</li>
+        <li>Details added to the model should be in scale or as close to scale as possible.</li>
+        <li>Aftermarket parts (photo-etched, white metal, resin, etc.) should integrate well with the basic model. Photo-etched parts that require forming should be precisely shaped, and any surfaces that require building up to a thicker cross-section should be smooth and uniform.</li>
+        <li>Science fiction and fantasy modeling can entail a fair amount of scratch-building or kit-bashing. Items or areas added in this fashion should look useful and truly part of the vehicle, and should be similar in fit, detail, and overall finish to the rest of the model. Parts used from other kits should be sufficiently altered or disguised so that their origin is not immediately apparent in order to avoid the appearance of a haphazard assemblage of spare parts (sometimes known as the &quot;Panzer IV in Space&quot; syndrome).<br>
+      </ol>
+      <h5><i>Painting and Finishing</i></h5>
+      <ol>
+        <li>The model's surface, once painted, should show no signs of the construction process (glue, file, or sanding marks; fingerprints; obvious discontinuities between kit plastic and filler materials; etc.).</li>
+        <li>Finish should be even and smooth. If irregularities in the actual vehicle's finish are being duplicated, documentation of such irregularities is required.</li>
+        <ol TYPE=A>
+          <li>No brush marks, lint, brush hairs, etc.
+          <li> No &quot;orange-peel&quot; or &quot;eggshell&quot; effect; no &quot;powdering&quot; in areas such as cavities or inside corners.
+          <li> No random differences in sheen of finish caused by misapplication of final clear coats.</li>
+        </ol>
+        <li>Paint edges that are supposed to be sharp should be sharp (no ragged edges caused by poor masking). Edges that are supposed to be soft or feathered should be in scale and without overspray.</li>
+        <li>Framing on clear parts should have crisp, uniform edges.</li>
+        <li>Weathering, if present, should be consistent throughout the model, not overdone, and appropriate for the vehicle and the conditions in which it was (or would be) operating. Reentry vehicles (Space Shuttle, Apollo, etc.) should show some aerodynamic weathering if depicted in a post-reentry or landing mode. Rocket engine nozzles generally should show some sort of weathering, particularly on the inside; but check references, as such weathering can vary greatly from one type of nozzle to another.</li>
+        <li>Decals:</li>
+        <ol TYPE=A>
+          <li>Aligned properly. (If the actual prototype had a markings anomaly, e.g., an inverted insignia, the model builder should provide documentation to show that he is deliberately duplicating someone else's error, not inadvertently making one of his own.)
+          <li> No silvering or bubbling of decal film. Decal film should be eliminated or hidden to make the markings appear painted on.
+          <li> Uniform finish (a consideration if using decal bits from a variety of sources).</li>
+        </ol>
+        <li>Colors. Paint colors, even from the same manufacturer and mixed to the same specs, can vary from batch to batch. Different operating environments can change colors in different ways. All paints fade from the effects of weather, sunlight, supernova explosions, etc., and viewing distance alone can change the look of virtually any color. Poor initial application and subsequent maintenance compound these problems. Therefore, except for gross inaccuracies such as a black Space Shuttle Columbia, color shades should not be used to determine the accuracy of a model that represents an actual spacecraft or a specific TV or movie science fiction vehicle. Of course, for science fiction models that are solely the product of the builder's imagination, the rule on colors is &quot;anything goes.&quot;<br>
+      </ol>
+      <h4><a name="dioramas"></a>Dioramas<br>
+      </h4>
+      <p>A diorama is a combination of model(s) and a believable setting that tells a story, sets a mood, or creates a charged atmosphere. In addition to evaluating the modeling of a diorama's individual elements, the judges will consider the strength of the diorama's story line or mood and the overall presentation of the diorama. These three factors are equally important. Dioramas with superbly modeled components but a weak story line and presentation will almost certainly lose to a diorama with well-modeled components and strong story and presentation.<br>
+      </p>
+      <h5><i>Model Components</i></h5>
+      <p>The individual model components of a diorama will be judged according to the criteria specified in the appropriate individual class. That is, armor pieces will be subject to armor judging criteria while figures will be evaluated according to the figure modeling guidelines. As always, the basics of construction and finishing are of prime importance. Terrain, roadwork, buildings, and accessories that set the scene of the diorama will be evaluated similarly to the primary model components. Basic construction and finish are once again paramount.<br>
+      </p>
+      <h5><i>Presentation</i></h5>
+      <p>The diorama base should comprise individual elements that combine to form a realistic and/or plausible setting for the primary model component(s). Each of the elements also should be believable in its own right and consistent with the action or mood being depicted. The degree of imagination and inventiveness used to pose the main elements will factor into the overall presentation evaluation. The base should provide a focal point for the scene and fit or enhance the story line or mood of the diorama. Dioramas with a well-defined focal point highlighting a simple story generally will have a stronger presentation than those attempting to portray an entire battlefield.<br>
+      </p>
+      <h5><i>Story Line, Mood, Atmosphere</i></h5>
+      <p>This element is what separates the diorama from models merely set on a base. A simple derelict vehicle rusting away in a field can set a mood as well as, or better than, a complete recreation of the Battle of Waterloo. The story, mood, or atmosphere created by the diorama should be obvious; the judges shouldn't have to strain to see it. Stories can incorporate historical or even humorous aspects. Here again, imagination and inventiveness in telling the story or setting the mood can lift a diorama out of the ordinary.</p>
+      <h3><a name="categories"></a>Contest Categories</h3>
+      <p><b><i>BEING REVISED !!</i></b></p>
+      <h3><a name="rules"></a>Contest Rules</h3>
+      <p><b><i>BEING REVISED !!</i></b><br>
+      </p>
+      <h3><a name="thoughts"></a>Did you ever wonder about . . . ?<br>
+        (Miscellaneous Thoughts on Judging and Competition) </h3>
+      <h4><a name="didnt win"></a>&quot;This Didn't Win?!&quot;</h4>
+      <p>A comment heard at times in the Contest Room after the awards banquet goes something like, &quot;How could this model<b><i> not</i></b> have won? Look at the detailing in the . . .&quot; The simple answer to the question is usually either &quot;basics&quot; or &quot;consistency.&quot; A super-detailed open turret on an AFV with pigeon-toed tracks is like a mansion built on sand; it's beautiful, but it's sitting on a weak foundation, and that will be its downfall. Similarly, an aircraft with a superbly detailed cockpit and wheel wells, but with navigation lights and anti-collision beacons represented by sloppily applied gloss paint, lacks consistency. In effect, the builder built incredibly detailed individual models of a cockpit and three wheel wells, then just assembled the rest of the kit to serve as a holder for the detailed bits that really interested him.<br>
+      </p>
+      <h4><a name="pick winner"></a>&quot;These Models Are All So Beautiful; How Can The Judges Possibly Pick a Winner?&quot;</h4>
+      <p>Judges hear sentiments like this at virtually every National Contest, but many folks might be surprised to learn that the situation often can best be described by the comment regularly heard during slide shows of models: &quot;It looks better in the picture than it actually was.&quot; Many models look good sitting on the contest table but begin to lose their luster when the judging starts. The closer look that judging requires often reveals flaws in basic construction that aren't readily apparent to the casual viewer. In fact, in a category with a small number of entries, it's not all that unusual for the judges to finish their first &quot;cut&quot; and discover that everything in the category has one or another type of relatively serious problem. <b><i>That's</i></b> when the judging <b><i>really</i></b> gets hard! The mistakes are usually basic and relatively minor: seam problems on one model, silvered decals on another, misalignment on a third, etc. It's a little easier if one of the models has something that distinguishes it from the others--some extra work that's been done well, a particularly nice finish, etc.--but if all the models are built to approximately the same level, the judges end up having to determine the winners based on which models have the fewest mistakes, or which of the mistakes on the various models bothers them the least. Judges find this situation really frustrating because any one of the models could have been an immediate winner if the builder had just given a bit more care and attention to the modeling basics.<br>
+      </p>
+      <h4><a name="accuracy"></a>Accuracy</h4>
+      <p>Absolute accuracy is a noble, but probably unattainable, goal. No scale model is ever 100% accurate, yet some people urge that models be judged principally on their accuracy. This is a real minefield. Yes, gross inaccuracy should be easy to spot &#151; most would agree that a model of an F-86 with forward-swept wings is inaccurate. Beyond that, however, the situation quickly becomes murky and can lead to unfairness in judging. For example, suppose one of the judges for the 1/72 Multi-engine Jet category had spent the better part of 20 years as a USAF F-4 crew chief. That judge is going to be an absolute expert on Phantoms and probably will be able to find inaccuracies of one type or another on every F-4 entered in the category. But is he equally knowledgeable about Canadian CF-100 Canucks? Probably not. So, if he judges solely on the basis of accuracy, there's a real risk that he will unfairly penalize those who entered F-4 models. The Chief Judge and Class Head Judges take pains every year to remind the judges to be aware of this problem and to be fair to all on this issue. But before we get too wrapped around the accuracy debate, remember that judges concentrate first on the modeling aspects. A model with every component built absolutely accurately probably still won't win if seams between the components aren't filled properly. Conversely, a superbly built model containing an inaccuracy could win if it is, in all other respects, the best model in the category. Judges take lots of hits from modelers who know some minute aspect of a prototype and mistakenly believe that judges must also have that much detailed knowledge and more. It's simply not possible for all IPMS judges to match, model for model, the expertise developed by our disparate and incredibly knowledgeable membership. Don't assume that the judges know all the details you know. Help them and help yourself by putting a little time into the entry sheet or any other display material you put out with your model. Judges do read that stuff, and it could make the difference for you.<br>
+      </p>
+      <h4><a name="no sweeps"></a>&quot;No Sweeps&quot; and Out-of-the Box</h4>
+      <p>The National Contest Committee leaves it up to each year's Convention Host Chapter to determine whether the contest will be run on a &quot;sweeps&quot; or &quot;no sweeps&quot; basis; i.e., can one builder &quot;sweep&quot; a category, winning First-, Second-, and Third-place awards, or can he win only one award per category. The philosophical debate over sweeps vs. no sweeps will probably go on for as long as IPMS/USA exists, so this handbook certainly won't jump into that quagmire. Nevertheless, since the majority of National contests tend to be &quot;no sweeps,&quot; it's necessary to address the confusion that sometimes arises over the &quot;Out-of-the-Box&quot; (OOB) categories in no-sweeps years. <b><i>&quot;If a modeler can win only one award per category, how can he or she win both an OOB trophy and one of the 'Place' trophies (1st/2nd/3rd) with the same model in the same category?&quot;<br>
+        </i></b></p>
+      <p>The short answer is that OOB is a separate category. Some history might help to make this a little clearer. When the OOB category was initially introduced to the National contest, it was only a single category. That quickly became a large and unjudgeable nightmare (how do you judge a dinosaur against a Spad against a submarine against . . .?). Because the Contest Committee felt that OOB was an important category, it made the decision to append the elements of the OOB category onto the appropriate regular categories, so that like would be judged with like. The judges first work through the category, rank ordering the models entered. Once that ranking is accomplished, they then determine which of the models identified as OOB finished highest in the ranking. It could be the model that ranked fourth, fifth, or any other position. Of course, the OOB winner often wins one of the regular category places as well, and this is a principal reason the Contest Committee still sees the OOB categories as valuable. They continue to demonstrate to all that basics are the most important element of model building.<br>
+      </p>
+      <h4><a name="know model"></a>Know Your Model</h4>
+      <p>At every National Convention, judges have to spend a lot of time before they begin judging a category checking for misplaced models and moving the ones they find to the proper category. This causes even more trouble and wasted time if the proper category has already been judged, because the judging then has to be done over again. Much of this misplacement could be avoided if entrants would take a few minutes ahead of time to determine the proper category for each of their models. Remember that the folks working the model registration desk aren't always model builders, although they should be whenever possible. Even if they are modelers, they may build only one type of model and not know a whole lot about any other types. If an entrant knows ahead of time that his twin-engine Do 335 doesn't belong in the &quot;Small Prop and Turboprop, single engine&quot; category because it has two engines, he won't let a registrar put it there. If an entrant has determined that the wingspan or length of the multi-engined jet he's modeling is over 55 feet (not too daunting a research challenge), he won't accept its placement in the &quot;Small Jet&quot; category. Moreover, if he's been clever enough to include the wingspan and length figures on the info sheet he puts with his model, he'll save a lot of questions about whether or not it's correctly placed. Spend a few minutes at home checking these things out while the glue dries and you'll save yourself some hassles, keep your model from being moved more than it absolutely has to be, and earn the gratitude of registrars and judges alike.<br>
+      </p>
+      <h4><a name="nitpickers"></a>&quot;The Judges Are a Bunch of @#$%# Nit-pickers.&quot;</h4>
+      <p>Because many judges make their selection of category winners based on a series of &quot;cuts&quot; as mentioned earlier, some modelers have accused the judges of negativism and of being nothing but glorified nit-pickers. Not true! It stands to reason that many, if not all, of the models in any category are going to be pretty darn good examples of our art. But they are on the table to be ranked, and that's what we have to do. As has been emphasized repeatedly, we rank the models principally by a close look at basic modeling techniques. But when that doesn't result in a final three, we've got to go closer and examine even more critically. It's hard, but there is no other way. And, really, it's a compliment to the incredibly high standards that are being set by IPMS modelers.<br>
+      </p>
+      <h4><a name="flashlights"></a>&quot;If The Judges Aren't a Bunch of @#$%# Nit-pickers, Why Do They Use Those Damn Little Flashlights?&quot;</h4>
+      <p>In some cases, especially in earlier years, the penlights were often needed to even SEE the models in contest rooms that were far less than well-lit. Fortunately, that's not the case nearly so often these days, although it does still happen occasionally. Beyond that, however, a good penlight is an invaluable aid in highlighting such things as poorly finished seams, unsanded ridges, and poorly finished (or unfinished) interior areas. An old judge's trick is to shine the light across a seam area at an angle. Nothing will pop out an incorrectly filled seam more quickly. Serious competitors would be wise to examine their own models with a penlight before coming to the contest. They might be amazed at what they see!<br>
+      </p>
+      <h4><a name="decisions"></a>Judges' Decisions</h4>
+      <p>Players and fans love the umpires or referees when the calls are in their team's favor and hate them when their calls favor the opposing team. Modelers often have similar reactions to IPMS National judges. Many National judges have been cornered after the Awards banquet by a modeler with fire flashing from his eyes demanding to know why his model didn't win. That's not a good way to begin a dialogue, and it almost guarantees that there will be no useful exchange of information.<br>
+      </p>
+      <p>Before jumping a judge like that, take a moment to consider who these National judges are. They're modelers. Collectively, they exhibit a wide range of modeling interests, skills, background, experience, temperament, and personality, and they're also imperfect human beings. In short, they're just like any other member of IPMS, but with one major distinction: they volunteer to spend a significant chunk of their convention time working damn hard and well into the wee hours to make it possible for the National Contest to exist. The vast majority of judges are also more than willing to share their expertise, discuss your model with you, and give you some tips on things to do (and not do) to give your next model a leg up on its competition. All you have to do is ask--but please do so in the same way you'd want to be asked if you were in the judge's shoes.<br>
+      </p>
+      <p>And, if you <b><i>really</i></b> want to learn what separates the winning models from the rest of the entries in a category, next time you're at a one-day show or a Regional Convention, volunteer to judge. Get yourself assigned to work on a team with experienced judges. Tell them you haven't judged before but want to learn how, and they'll take you under their wing. The vast majority of folks who've done so have found that they've learned more about judging--and model building--in one afternoon than they could have in a whole month of Sundays.<br>
+      </p>
+      <h4><a name="hypothetical"></a>Hypothetical Vehicles</h4>
+      <p>The Hypothetical category was established both to provide a competition slot for models that don't fit into the standard categories, and to take some of the pressure off the Miscellaneous category--previously the only place such models could compete. Think of Hypothetical as something akin to the &quot;Science-Fiction Vehicles&quot; part of the &quot;Space and Science-Fiction Vehicles&quot; category. It's a place for aircraft, cars, ships, etc. that never made it off the drawing board (Luftwaffe 1946, futuristic auto designs), for models in markings that the actual vehicle never wore (Royal Navy F7U Cutlass, Go/Ho 229 flying wing in squadron markings), and for vehicles that have never existed anywhere but in the mind of the modeler (an Indy Car with a body fashioned from a MiG-29 fuselage). What about a full-size, 3-D mock-up of a prospective vehicle? Well, if the builder produces a model of that mock-up, the model goes in the appropriate standard category. But if he paints that mock-up in colors and markings it never wore, it's a hypothetical vehicle. In other words, if the model is a true, scale representation of a vehicle that actually existed in three dimensions, it belongs in a standard category. If it doesn't fit that description, and it isn't a space or science-fiction subject, it belongs in Hypothetical.</p>
+    </article>
+  </div>
+  <!-- InstanceEndEditable -->
+  <hr>
+  <footer class="row">
+    <div class="col-sm-12 col-md-12" style="text-align: right;">
+      <p><a href="https://www.facebook.com/groups/ipmsusa" target="_blank">Facebook Group</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/ipmsusa/" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Facebook Group" width="26" height="25"></a></p>
+      <p><a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank">Official Facebook Page</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pages/International-Plastic-Modelers-Society-USA/214511042056306" target="_blank"><img src="/images/logos/fb_logo_sm.jpg" alt="Official Facebook Page" width="26" height="25"></a></p>
+      <p><a href="https://twitter.com/#!/IPMSUSA" target="_blank">Follow us on Twitter</a>&nbsp;&nbsp;<a href="https://twitter.com/#!/IPMSUSA" target="_blank"><img src="/images/logos/twitter.jpg" alt="Twitter" width="25" height="25"></a></p>
+      <p><a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank">Google Plus</a>&nbsp;&nbsp;<a href="https://plus.google.com/communities/117288747904196233825?hl=en" target="_blank"><img src="/images/googlePlus_Icon.png" width="25" height="25" alt="Google Plus Icon"></a></p>
+      <hr>
+      <p><a href="http://www.ipmsusa.org" target="_top">IPMS/USA Home</a><br>
+        <a href="http://www.ipmsusa.org/archive/index.htm">IPMS/USA Website Archive</a></p>
+      <p>Information, images, and all other items placed on this site are the intellectual property of IPMS/USA &copy;.</p>
+    </div>
+  </footer>
+</section>
+<!--/.fluid-container-->
+
+</body>
+<!-- InstanceEnd --></html>
