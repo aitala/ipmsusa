@@ -15,6 +15,9 @@
 ### Pie in the Sky
 * Drupal 7 theme
 
+### Ideas
+* Slider gallery with lazyloading of images.
+
 ## IPMS
 ### Will...
 * provide files on Github
