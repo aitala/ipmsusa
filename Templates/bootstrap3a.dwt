@@ -20,7 +20,7 @@
 
 <!-- Le styles -->
 <link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
-<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/css/local2.css" rel="stylesheet">
 <link href="/bootstrap3/css/yamm.css" rel="stylesheet">
 
 <style type="text/css">

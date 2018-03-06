@@ -22,7 +22,7 @@
 
 <!-- Le styles -->
 <link href="/bootstrap3/css/bootstrap.css" rel="stylesheet">
-<link href="/bootstrap3/css/local.css" rel="stylesheet">
+<link href="/css/local2.css" rel="stylesheet">
 <link href="/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
 <style type="text/css">
 .sidebar-nav {
