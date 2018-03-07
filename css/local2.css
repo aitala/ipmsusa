@@ -2,6 +2,34 @@
  * Local CSS Custom code
  */
 
+/* Bootstrap Override */
+/* Just in case bootstrap.css gets reverted */
+
+.dropdown-menu {
+	z-index: 999999;
+}
+
+.jumbotron {
+  padding: 15px;
+}
+
+.jumbotron h2,
+.jumbotron .h2 {
+  margin-top: 10px;
+}
+
+@media screen and (min-width: 768px) {
+	.jumbotron {
+		padding-top: 24px;
+		padding-bottom: 24px;
+	}
+	
+	.jumbotron h2,
+	.jumbotron .h2 {
+		margin-top: 10px;
+	}
+}
+
 .navbar-inverse {
   background-color: #2541e2;
   background-image: -moz-linear-gradient(top, #2541e2 0%, #0e0980 100%);
