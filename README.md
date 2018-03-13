@@ -30,8 +30,8 @@
 ## Information for IPMS/USA
 ### Things to think about
 * General Layout
- * Header and Footer
- * Navigation
+  * Header and Footer
+  * Navigation
 * Colors
 * Images
 * Menus
