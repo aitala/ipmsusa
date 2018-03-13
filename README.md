@@ -18,7 +18,7 @@
 ### Ideas
 * Slider gallery with lazyloading of images.
 
-## IPMS
+## IPMS Responsibilities
 ### Will...
 * provide files on Github
 * provide any official logos
@@ -26,3 +26,15 @@
 
 ### Will not..
 * allow direct access to web server(s).
+
+## Things to think about
+* General Layout
+** Header and Footer
+* Colors
+* Menus
+## Resources
+### Bootstrap Example sites.
+* https://wrapbootstrap.com/themes/blogs-magazines?branch=3.x
+* https://wrapbootstrap.com/themes/business?branch=3.x
+* https://bootstrapmade.com
+* 
