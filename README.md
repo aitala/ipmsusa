@@ -27,14 +27,17 @@
 ### Will not..
 * allow direct access to web server(s).
 
-## Things to think about
+## Information for IPMS/USA
+### Things to think about
 * General Layout
-** Header and Footer
+ * Header and Footer
+ * Navigation
 * Colors
+* Images
 * Menus
+
 ## Resources
 ### Bootstrap Example sites.
 * https://wrapbootstrap.com/themes/blogs-magazines?branch=3.x
 * https://wrapbootstrap.com/themes/business?branch=3.x
 * https://bootstrapmade.com
-* 
