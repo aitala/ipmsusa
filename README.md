@@ -24,8 +24,8 @@
 * provide any official logos
 * provide input on theme and language
 
-### Will not..
-* allow direct access to web server(s).
+### Might..
+* allow direct access to web server(s). More on this later.
 
 ## Information for IPMS/USA
 ### Things to think about
